@@ -1,0 +1,809 @@
+ID,A1_Score,A2_Score,A3_Score,A4_Score,A5_Score,A6_Score,A7_Score,A8_Score,A9_Score,A10_Score,age,gender,ethnicity,austim,contry_of_res,used_app_before,result,age_desc,relation,age_group,Class/ASD
+1,1,1,1,1,0,0,1,1,0,0,26.0,f,White-European,no,United States,no,6.0,18 and more,Self,adult,0
+2,1,1,0,1,0,0,0,1,0,1,24.0,m,Latino,yes,Brazil,no,5.0,18 and more,Self,adult,0
+3,1,1,0,1,1,0,1,1,1,1,27.0,m,Latino,yes,Spain,no,8.0,18 and more,Parent,adult,1
+4,1,1,0,1,0,0,1,1,0,1,35.0,f,White-European,yes,United States,no,6.0,18 and more,Self,adult,0
+5,1,0,0,0,0,0,0,1,0,0,40.0,f,Unknown,no,Egypt,no,2.0,18 and more,Unknown,adult,0
+6,1,1,1,1,1,0,1,1,1,1,36.0,m,Others,no,United States,no,9.0,18 and more,Self,adult,1
+7,0,1,0,0,0,0,0,1,0,0,17.0,f,Black,no,United States,no,2.0,18 and more,Self,adult,0
+8,1,1,1,1,0,0,0,0,1,0,64.0,m,White-European,no,New Zealand,no,5.0,18 and more,Parent,adult,0
+9,1,1,0,0,1,0,0,1,1,1,29.0,m,White-European,no,United States,no,6.0,18 and more,Self,adult,0
+10,1,1,1,1,0,1,1,1,1,0,17.0,m,Asian,yes,Bahamas,no,8.0,18 and more,Health care professional,adult,1
+11,1,1,1,1,1,1,1,1,1,1,33.0,m,White-European,no,United States,no,10.0,18 and more,Relative,adult,1
+12,0,1,0,1,1,1,1,0,0,1,18.0,f,Middle Eastern,no,Burundi,no,6.0,18 and more,Parent,adult,0
+13,0,1,1,1,1,1,0,0,1,0,17.0,f,Unknown,no,Bahamas,no,6.0,18 and more,Unknown,adult,0
+14,1,0,0,0,0,0,1,1,0,1,17.0,m,Unknown,no,Austria,no,4.0,18 and more,Unknown,adult,0
+15,1,0,0,0,0,0,1,1,0,1,17.0,f,Unknown,no,Argentina,no,4.0,18 and more,Unknown,adult,0
+16,1,1,0,1,1,0,0,1,0,1,18.0,m,Middle Eastern,yes,New Zealand,no,6.0,18 and more,Parent,adult,0
+17,1,0,0,0,0,0,1,1,1,1,31.0,m,Middle Eastern,no,Jordan,no,5.0,18 and more,Self,adult,0
+18,0,0,0,0,0,0,0,1,0,1,30.0,m,White-European,no,Ireland,no,2.0,18 and more,Self,adult,0
+19,0,0,1,0,1,1,0,0,0,0,35.0,f,Middle Eastern,yes,United Arab Emirates,no,3.0,18 and more,Self,adult,0
+20,0,0,0,0,0,0,1,1,0,1,34.0,m,Unknown,no,United Arab Emirates,no,3.0,18 and more,Unknown,adult,0
+21,0,1,1,1,0,0,0,0,0,0,38.0,m,Unknown,no,United Arab Emirates,no,3.0,18 and more,Unknown,adult,0
+22,0,0,0,0,0,0,0,0,0,0,27.0,f,Black,no,United Arab Emirates,no,0.0,18 and more,Self,adult,0
+23,0,0,0,1,0,0,1,1,1,1,27.0,m,Middle Eastern,no,Afghanistan,no,5.0,18 and more,Self,adult,0
+24,0,0,0,0,0,0,0,1,0,1,42.0,m,Middle Eastern,no,United Arab Emirates,no,2.0,18 and more,Relative,adult,0
+25,1,1,1,1,0,0,0,1,0,0,43.0,m,Unknown,no,Lebanon,no,5.0,18 and more,Unknown,adult,0
+26,0,1,1,0,0,0,0,1,0,0,24.0,f,Unknown,no,Afghanistan,no,3.0,18 and more,Unknown,adult,0
+27,0,0,0,0,0,0,0,1,0,0,40.0,m,Pasifika,yes,United Arab Emirates,no,1.0,18 and more,Self,adult,0
+28,0,0,0,0,0,0,0,1,0,0,40.0,m,Middle Eastern,yes,Afghanistan,no,1.0,18 and more,Parent,adult,0
+29,0,0,0,0,0,0,0,1,0,0,48.0,m,Black,no,New Zealand,no,1.0,18 and more,Self,adult,0
+30,0,1,1,0,0,0,0,0,1,1,31.0,m,Middle Eastern,no,United Kingdom,no,4.0,18 and more,Self,adult,0
+31,0,0,0,0,0,0,0,0,0,0,18.0,m,White-European,no,United Kingdom,no,0.0,18 and more,Self,adult,0
+32,1,0,0,1,1,1,1,1,0,1,37.0,f,White-European,yes,United States,no,7.0,18 and more,Self,adult,1
+33,1,1,0,0,0,0,1,0,0,1,55.0,f,Others,no,New Zealand,no,4.0,18 and more,Self,adult,0
+34,1,1,1,1,1,1,1,1,1,1,18.0,f,White-European,no,South Africa,no,10.0,18 and more,Self,adult,1
+35,1,1,1,1,1,1,1,1,1,1,18.0,f,White-European,no,South Africa,no,10.0,18 and more,Self,adult,1
+36,0,0,1,0,0,0,0,0,0,0,55.0,m,White-European,no,New Zealand,no,1.0,18 and more,Self,adult,0
+37,0,1,1,0,1,0,0,1,1,1,50.0,m,Middle Eastern,no,United Arab Emirates,no,6.0,18 and more,Self,adult,0
+38,1,0,1,1,1,1,0,0,1,0,34.0,f,White-European,no,New Zealand,no,6.0,18 and more,Self,adult,0
+39,1,0,0,1,1,1,1,0,1,1,53.0,f,White-European,no,New Zealand,no,7.0,18 and more,Self,adult,1
+40,1,0,1,1,0,1,1,1,1,1,35.0,f,White-European,yes,United States,no,8.0,18 and more,Self,adult,1
+41,1,0,1,1,1,0,1,1,0,1,20.0,f,Latino,no,Italy,no,7.0,18 and more,Self,adult,1
+42,0,0,0,0,1,1,0,0,0,0,28.0,f,Asian,no,Pakistan,no,2.0,18 and more,Self,adult,0
+43,0,0,1,1,0,0,0,0,0,1,34.0,f,Middle Eastern,yes,Egypt,no,3.0,18 and more,Self,adult,0
+44,0,1,1,1,0,0,0,0,0,1,36.0,f,White-European,yes,United States,no,4.0,18 and more,Self,adult,0
+45,1,1,1,1,1,1,0,1,0,1,27.0,f,White-European,no,New Zealand,no,8.0,18 and more,Self,adult,1
+46,1,0,1,1,1,1,0,1,1,0,53.0,f,White-European,no,New Zealand,no,7.0,18 and more,Relative,adult,1
+47,1,1,1,1,0,1,0,0,0,0,24.0,f,Pasifika,no,New Zealand,no,5.0,18 and more,Relative,adult,0
+48,0,0,1,1,1,0,1,0,0,0,24.0,m,Pasifika,no,New Zealand,no,4.0,18 and more,Relative,adult,0
+49,0,1,1,0,0,1,0,0,0,0,55.0,m,White-European,no,New Zealand,no,3.0,18 and more,Relative,adult,0
+50,1,1,0,0,0,1,1,1,0,1,30.0,f,Asian,no,Bangladesh,no,6.0,18 and more,Self,adult,0
+51,1,0,0,1,0,0,0,1,0,0,21.0,f,Latino,no,Chile,no,3.0,18 and more,Self,adult,0
+52,1,1,1,1,1,1,1,1,1,1,35.0,f,Black,no,France,no,10.0,18 and more,Parent,adult,1
+53,1,0,0,0,0,0,0,0,0,0,383.0,f,Pasifika,no,New Zealand,no,1.0,18 and more,Self,adult,0
+54,1,0,1,1,1,1,1,1,0,1,21.0,m,Latino,yes,Brazil,no,8.0,18 and more,Self,adult,1
+55,1,1,1,1,1,1,1,1,1,1,47.0,m,White-European,no,United States,no,10.0,18 and more,Self,adult,1
+56,1,1,1,1,1,1,0,1,1,1,30.0,f,Asian,no,China,no,9.0,18 and more,Self,adult,1
+57,1,0,1,1,1,1,0,1,1,1,28.0,f,White-European,no,Australia,no,8.0,18 and more,Self,adult,1
+58,1,1,1,1,1,1,0,1,1,1,43.0,f,White-European,no,Australia,no,9.0,18 and more,Self,adult,1
+59,1,0,0,0,1,0,0,1,0,0,32.0,f,South Asian,yes,Canada,no,3.0,18 and more,Self,adult,0
+60,1,1,1,1,0,0,0,1,0,0,44.0,f,White-European,no,Australia,no,5.0,18 and more,Self,adult,0
+61,1,0,1,1,1,1,1,1,0,1,20.0,f,Others,no,Canada,no,8.0,18 and more,Self,adult,1
+62,1,0,1,1,0,1,1,1,0,1,20.0,f,Others,no,Canada,yes,7.0,18 and more,Self,adult,1
+63,0,0,0,0,0,0,0,0,0,0,25.0,m,Unknown,no,Saudi Arabia,no,0.0,18 and more,Unknown,adult,0
+64,1,0,0,1,1,0,0,1,1,0,19.0,m,White-European,no,Australia,no,5.0,18 and more,Parent,adult,0
+65,1,1,1,1,1,1,1,1,0,1,29.0,f,White-European,no,Australia,no,9.0,18 and more,Self,adult,1
+66,1,0,1,0,0,0,0,1,0,0,21.0,m,Middle Eastern,no,United States,no,3.0,18 and more,Self,adult,0
+67,0,1,0,0,0,0,0,1,0,0,27.0,m,Middle Eastern,no,France,no,2.0,18 and more,Parent,adult,0
+68,1,0,1,0,1,1,1,1,0,0,21.0,m,Hispanic,no,United States,no,6.0,18 and more,Self,adult,0
+69,1,0,0,0,1,0,1,0,0,1,35.0,m,Middle Eastern,no,Saudi Arabia,no,4.0,18 and more,Self,adult,0
+70,0,0,0,0,1,0,0,0,0,0,42.0,m,Black,no,New Zealand,no,1.0,18 and more,Self,adult,0
+71,1,1,0,0,0,0,1,1,0,1,29.0,f,South Asian,no,New Zealand,no,5.0,18 and more,Self,adult,0
+72,0,0,1,1,0,0,0,1,0,0,58.0,m,Asian,no,New Zealand,no,3.0,18 and more,Self,adult,0
+73,1,0,1,1,0,0,1,1,0,1,21.0,m,Others,no,United States,no,6.0,18 and more,Self,adult,0
+74,1,1,1,0,0,0,0,1,1,1,21.0,m,Others,no,United States,no,6.0,18 and more,Self,adult,0
+75,0,0,1,1,1,0,0,1,1,1,37.0,f,White-European,yes,United States,no,6.0,18 and more,Self,adult,0
+76,1,1,0,1,1,1,1,1,0,0,21.0,m,Hispanic,no,United States,no,7.0,18 and more,Self,adult,1
+77,1,0,0,0,0,0,1,1,0,0,20.0,m,Middle Eastern,no,United States,no,3.0,18 and more,Self,adult,0
+78,1,1,0,1,1,1,1,1,1,0,33.0,f,Black,yes,United States,no,8.0,18 and more,Self,adult,1
+79,1,0,0,1,1,0,0,0,0,1,20.0,m,Middle Eastern,no,United States,no,4.0,18 and more,Self,adult,0
+80,1,1,0,0,0,0,0,0,0,0,45.0,f,Unknown,no,Jordan,no,2.0,18 and more,Unknown,adult,0
+81,0,0,1,1,0,0,1,1,0,1,32.0,m,Unknown,yes,Afghanistan,no,5.0,18 and more,Unknown,adult,0
+82,1,0,0,0,0,0,1,0,0,1,30.0,m,Unknown,no,Jordan,no,3.0,18 and more,Unknown,adult,0
+83,1,1,1,1,1,1,1,1,1,1,33.0,f,White-European,yes,Netherlands,no,10.0,18 and more,Self,adult,1
+84,0,0,1,0,1,0,0,1,0,1,42.0,f,Middle Eastern,no,Jordan,no,4.0,18 and more,Self,adult,0
+85,1,1,0,0,0,0,0,0,0,0,17.0,f,White-European,no,New Zealand,no,2.0,18 and more,Self,adult,0
+86,1,0,0,0,0,0,0,1,0,1,27.0,f,Middle Eastern,no,United States,no,3.0,18 and more,Self,adult,0
+87,1,0,0,1,1,1,1,1,1,1,35.0,f,Middle Eastern,yes,Afghanistan,no,8.0,18 and more,Parent,adult,1
+88,1,0,0,0,0,0,0,0,0,0,37.0,m,White-European,no,United Kingdom,no,1.0,18 and more,Self,adult,0
+89,1,0,0,0,0,0,0,1,1,1,30.0,f,White-European,yes,United Kingdom,no,4.0,18 and more,Self,adult,0
+90,1,1,1,1,1,1,0,1,1,1,29.0,f,White-European,no,New Zealand,no,9.0,18 and more,Self,adult,1
+91,1,0,1,1,0,0,0,0,0,1,17.0,f,White-European,yes,Romania,no,4.0,18 and more,Self,adult,0
+92,0,1,0,0,1,0,1,0,0,1,25.0,f,Unknown,no,Jordan,no,4.0,18 and more,Unknown,adult,0
+93,0,0,0,1,1,1,0,1,0,1,22.0,f,Pasifika,no,New Zealand,no,5.0,18 and more,Self,adult,0
+94,1,1,1,0,1,1,1,0,1,1,19.0,f,Latino,yes,Brazil,no,8.0,18 and more,Self,adult,1
+95,1,1,1,1,1,0,0,1,1,1,42.0,f,White-European,yes,Sweden,no,8.0,18 and more,Self,adult,1
+96,1,1,0,0,0,0,0,1,0,1,37.0,f,White-European,no,United Kingdom,no,4.0,18 and more,Self,adult,0
+97,1,0,0,0,1,0,1,1,0,0,28.0,f,White-European,no,Australia,no,4.0,18 and more,Self,adult,0
+98,1,0,0,1,1,0,1,0,0,0,22.0,m,Others,no,New Zealand,no,4.0,18 and more,Self,adult,0
+99,1,1,0,0,0,0,0,1,0,0,26.0,f,Pasifika,no,Tonga,no,3.0,18 and more,Self,adult,0
+100,0,0,0,0,0,0,0,0,1,0,21.0,m,Pasifika,no,Oman,no,1.0,18 and more,Self,adult,0
+101,0,1,1,0,0,0,0,1,0,0,26.0,f,South Asian,no,India,no,3.0,18 and more,Self,adult,0
+102,1,0,0,0,0,0,0,1,0,0,39.0,f,Asian,no,Philippines,no,2.0,18 and more,Self,adult,0
+103,1,0,0,0,0,0,0,0,1,1,26.0,m,Asian,no,New Zealand,no,3.0,18 and more,Self,adult,0
+104,1,1,0,0,1,0,1,1,0,0,26.0,m,Asian,no,India,no,5.0,18 and more,Self,adult,0
+105,0,0,0,0,1,1,0,1,0,1,21.0,m,South Asian,no,India,no,4.0,18 and more,Self,adult,0
+106,0,0,0,0,0,0,0,0,0,0,25.0,m,Asian,no,India,no,0.0,18 and more,Self,adult,0
+107,0,0,1,0,1,1,1,1,0,1,26.0,m,South Asian,no,New Zealand,no,6.0,18 and more,Self,adult,0
+108,1,1,0,1,1,0,1,1,0,1,30.0,f,White-European,no,United States,no,7.0,18 and more,Self,adult,1
+109,1,0,0,1,1,1,1,0,0,0,19.0,f,Asian,no,India,no,5.0,18 and more,Parent,adult,0
+110,1,0,0,0,0,1,1,0,0,0,19.0,f,Asian,no,India,no,3.0,18 and more,Parent,adult,0
+111,1,0,1,1,1,1,1,1,1,1,25.0,f,White-European,yes,New Zealand,no,9.0,18 and more,Self,adult,1
+112,0,0,1,1,0,1,0,1,1,1,23.0,m,White-European,no,United Kingdom,no,6.0,18 and more,Self,adult,0
+113,1,0,0,0,1,0,0,0,0,1,31.0,m,Asian,no,Sri Lanka,no,3.0,18 and more,Parent,adult,0
+114,0,1,0,0,0,0,0,1,1,1,27.0,m,Asian,no,New Zealand,no,4.0,18 and more,Self,adult,0
+115,1,1,0,1,1,1,1,1,0,1,29.0,f,Middle Eastern,no,United Arab Emirates,no,8.0,18 and more,Self,adult,1
+116,1,0,1,1,1,1,0,1,1,0,38.0,f,White-European,no,United Kingdom,no,7.0,18 and more,Parent,adult,1
+117,1,1,1,1,1,1,0,1,0,1,23.0,f,White-European,no,United States,no,8.0,18 and more,Self,adult,1
+118,1,1,1,0,1,0,1,1,0,0,27.0,m,White-European,no,United States,no,6.0,18 and more,Self,adult,0
+119,1,1,1,1,1,1,0,1,1,1,27.0,f,White-European,no,Canada,no,9.0,18 and more,Self,adult,1
+120,1,1,1,1,1,1,0,0,1,0,42.0,m,White-European,no,United States,no,7.0,18 and more,Self,adult,1
+121,1,1,1,1,1,1,0,1,1,1,20.0,m,White-European,no,United Kingdom,no,9.0,18 and more,Self,adult,1
+122,1,0,1,1,1,1,1,1,1,1,17.0,f,White-European,no,United States,no,9.0,18 and more,Self,adult,1
+123,1,0,0,0,0,0,0,0,0,0,20.0,f,Black,no,Spain,no,1.0,18 and more,Self,adult,0
+124,1,0,0,1,1,1,1,1,0,1,30.0,m,Asian,no,Sierra Leone,no,7.0,18 and more,Self,adult,1
+125,1,0,1,1,1,1,1,1,1,1,28.0,f,White-European,yes,Australia,no,9.0,18 and more,Self,adult,1
+126,1,1,0,0,1,1,1,1,0,1,26.0,f,White-European,no,New Zealand,no,7.0,18 and more,Self,adult,1
+127,0,0,0,0,0,0,0,0,0,0,26.0,f,White-European,no,Australia,no,0.0,18 and more,Self,adult,0
+128,1,0,0,1,1,1,0,1,0,1,31.0,m,Middle Eastern,yes,Canada,no,6.0,18 and more,Self,adult,0
+129,1,0,1,1,0,0,1,0,0,1,40.0,f,White-European,no,United Kingdom,no,5.0,18 and more,Self,adult,0
+130,1,0,0,0,1,0,0,0,1,1,39.0,f,White-European,yes,Ireland,no,4.0,18 and more,Relative,adult,0
+131,1,1,0,0,0,0,0,1,0,0,18.0,f,White-European,no,United States,no,3.0,18 and more,Self,adult,0
+132,1,0,0,0,0,0,0,1,0,1,24.0,m,Black,no,Ethiopia,no,3.0,18 and more,Self,adult,0
+133,1,1,0,0,0,0,0,1,0,0,23.0,m,South Asian,no,India,no,3.0,18 and more,Self,adult,0
+134,1,0,1,1,0,0,0,1,0,1,24.0,m,Asian,no,India,no,5.0,18 and more,Self,adult,0
+135,0,1,0,0,1,1,0,1,1,0,24.0,m,Asian,no,New Zealand,no,5.0,18 and more,Self,adult,0
+136,1,0,1,1,0,0,0,1,1,1,27.0,m,Asian,no,New Zealand,no,6.0,18 and more,Self,adult,0
+137,0,1,1,0,0,1,0,0,1,1,24.0,m,Asian,no,New Zealand,no,5.0,18 and more,Self,adult,0
+138,0,0,0,0,1,0,0,0,0,1,25.0,m,Asian,no,India,no,2.0,18 and more,Self,adult,0
+139,1,0,0,0,0,0,1,0,0,1,22.0,m,Asian,no,New Zealand,no,3.0,18 and more,Self,adult,0
+140,0,1,0,0,0,0,0,0,0,1,40.0,f,Asian,no,New Zealand,no,2.0,18 and more,Self,adult,0
+141,0,0,1,1,0,0,0,1,0,1,23.0,m,Asian,no,India,no,4.0,18 and more,Self,adult,0
+142,1,0,0,0,0,0,0,1,0,0,29.0,m,South Asian,no,India,no,2.0,18 and more,Self,adult,0
+143,1,0,1,0,0,0,0,1,0,0,25.0,m,Asian,no,India,no,3.0,18 and more,Self,adult,0
+144,1,0,0,1,1,0,0,1,0,0,27.0,m,Asian,no,India,no,4.0,18 and more,Self,adult,0
+145,0,0,0,0,0,0,0,1,0,0,22.0,m,South Asian,no,New Zealand,no,1.0,18 and more,Self,adult,0
+146,1,0,0,1,1,1,1,1,1,1,28.0,m,White-European,no,United States,no,8.0,18 and more,Parent,adult,1
+147,1,0,1,1,1,1,1,1,1,1,20.0,m,White-European,no,Australia,no,9.0,18 and more,Self,adult,1
+148,1,1,1,1,1,1,1,1,1,1,19.0,f,White-European,no,Romania,no,10.0,18 and more,Self,adult,1
+149,1,1,0,0,1,1,1,1,0,1,37.0,f,Others,no,United States,no,7.0,18 and more,Self,adult,1
+150,1,1,1,1,1,0,1,1,1,0,35.0,m,White-European,yes,United States,no,8.0,18 and more,Self,adult,1
+151,0,0,0,0,1,0,0,1,0,0,26.0,m,Asian,no,New Zealand,no,2.0,18 and more,Self,adult,0
+152,0,1,1,1,1,0,1,1,0,1,23.0,m,Asian,no,Viet Nam,no,7.0,18 and more,Self,adult,1
+153,1,1,0,0,1,0,0,0,0,1,32.0,f,South Asian,no,New Zealand,no,4.0,18 and more,Self,adult,0
+154,0,0,1,0,1,0,1,0,1,1,30.0,m,Asian,no,Sri Lanka,no,5.0,18 and more,Self,adult,0
+155,1,0,0,0,1,0,1,0,0,1,31.0,m,Asian,no,Sri Lanka,no,4.0,18 and more,Self,adult,0
+156,0,0,0,0,0,0,1,1,0,1,28.0,f,Asian,no,New Zealand,no,3.0,18 and more,Self,adult,0
+157,1,0,0,0,0,1,0,1,0,1,29.0,f,Asian,no,Sri Lanka,no,4.0,18 and more,Self,adult,0
+158,0,1,0,0,1,0,0,1,0,1,29.0,f,South Asian,no,Sri Lanka,no,4.0,18 and more,Self,adult,0
+159,1,0,0,1,0,0,0,0,1,1,29.0,f,Asian,no,India,no,4.0,18 and more,Self,adult,0
+160,1,0,0,0,0,0,1,1,0,0,31.0,m,Asian,no,India,no,3.0,18 and more,Self,adult,0
+161,0,0,0,0,0,0,0,0,0,0,36.0,m,Asian,no,India,no,0.0,18 and more,Parent,adult,0
+162,0,1,0,0,0,0,0,1,0,0,32.0,f,South Asian,no,India,no,2.0,18 and more,Self,adult,0
+163,0,0,0,0,0,0,0,1,0,0,34.0,f,South Asian,no,New Zealand,no,1.0,18 and more,Self,adult,0
+164,1,1,0,0,0,0,0,1,0,0,24.0,m,Asian,no,Sri Lanka,no,3.0,18 and more,Self,adult,0
+165,1,0,1,0,1,0,1,1,0,1,24.0,f,Asian,no,New Zealand,no,6.0,18 and more,Self,adult,0
+166,1,0,0,0,1,0,1,1,0,1,42.0,m,Asian,no,Sri Lanka,no,5.0,18 and more,Self,adult,0
+167,0,0,1,0,0,0,0,1,1,1,26.0,f,Others,no,India,no,4.0,18 and more,Self,adult,0
+168,1,0,0,0,1,0,1,1,0,0,27.0,f,Asian,no,Sri Lanka,no,4.0,18 and more,Self,adult,0
+169,0,0,1,1,1,0,0,1,1,1,36.0,f,Latino,yes,Brazil,no,6.0,18 and more,Self,adult,0
+170,1,1,1,1,1,0,0,1,1,1,36.0,f,Latino,yes,Brazil,no,8.0,18 and more,Self,adult,1
+171,1,0,1,1,0,0,1,1,0,1,55.0,m,Hispanic,no,United States,no,6.0,18 and more,Self,adult,0
+172,1,1,0,1,0,0,1,0,0,0,23.0,f,Asian,no,New Zealand,no,4.0,18 and more,Self,adult,0
+173,0,0,1,1,1,0,0,0,0,1,22.0,f,Asian,no,Sri Lanka,no,4.0,18 and more,Self,adult,0
+174,1,0,0,0,0,0,0,1,0,0,42.0,f,Middle Eastern,no,France,no,2.0,18 and more,Parent,adult,0
+175,1,0,0,1,0,0,0,1,0,0,54.0,m,White-European,no,Canada,no,3.0,18 and more,Self,adult,0
+176,1,1,0,0,0,0,1,1,1,1,43.0,f,Black,no,United States,no,6.0,18 and more,Self,adult,0
+177,1,1,1,1,1,1,0,1,1,1,43.0,f,Black,no,United States,yes,9.0,18 and more,Self,adult,1
+178,0,0,1,1,1,0,0,1,1,1,29.0,m,Middle Eastern,no,Iran,no,6.0,18 and more,Self,adult,0
+179,1,0,1,0,1,0,0,1,0,1,29.0,m,Middle Eastern,no,Iran,no,5.0,18 and more,Self,adult,0
+180,1,0,1,0,1,0,1,0,0,0,37.0,m,White-European,no,Australia,no,4.0,18 and more,Self,adult,0
+181,1,0,0,0,1,0,1,0,0,1,39.0,f,White-European,no,Australia,no,4.0,18 and more,Self,adult,0
+182,1,1,1,1,1,0,0,0,0,0,18.0,f,Asian,no,Viet Nam,no,5.0,18 and more,Self,adult,0
+183,0,1,0,1,1,1,0,1,0,1,31.0,m,White-European,no,United States,no,6.0,18 and more,Others,adult,0
+184,0,0,1,1,1,0,0,0,0,1,34.0,m,Asian,no,New Zealand,no,4.0,18 and more,Self,adult,0
+185,0,0,1,1,1,0,1,0,0,1,22.0,m,White-European,no,United States,no,5.0,18 and more,Self,adult,0
+186,1,0,1,1,1,1,1,0,1,0,28.0,m,South Asian,no,India,no,7.0,18 and more,Self,adult,1
+187,1,0,0,0,0,0,1,1,0,1,38.0,m,Others,yes,Netherlands,no,4.0,18 and more,Self,adult,0
+188,1,0,0,0,0,0,1,1,0,1,28.0,f,White-European,no,Australia,no,4.0,18 and more,Self,adult,0
+189,1,1,0,1,1,1,0,1,1,1,53.0,f,White-European,yes,United States,no,8.0,18 and more,Self,adult,1
+190,1,1,1,0,1,0,1,0,0,0,26.0,m,White-European,no,United Kingdom,no,5.0,18 and more,Self,adult,0
+191,1,1,1,1,1,1,0,1,1,1,37.0,m,White-European,no,United Kingdom,no,9.0,18 and more,Self,adult,1
+192,1,1,0,1,0,0,0,1,0,1,42.0,m,Latino,yes,Costa Rica,no,5.0,18 and more,Parent,adult,0
+193,1,0,0,0,0,0,0,1,0,1,43.0,m,Hispanic,no,United States,no,3.0,18 and more,Self,adult,0
+194,1,0,0,0,0,0,0,1,0,0,32.0,f,Asian,no,United Kingdom,no,2.0,18 and more,Self,adult,0
+195,0,1,0,1,0,0,0,1,0,0,31.0,m,White-European,yes,United Kingdom,no,3.0,18 and more,Self,adult,0
+196,1,0,1,1,1,1,1,1,1,1,53.0,f,White-European,no,United States,no,9.0,18 and more,Self,adult,1
+197,1,1,1,1,1,1,1,1,1,1,28.0,m,White-European,no,United States,no,10.0,18 and more,Self,adult,1
+198,1,0,1,1,1,1,1,1,1,1,38.0,m,White-European,no,Germany,no,9.0,18 and more,Self,adult,1
+199,1,1,1,0,1,1,0,1,1,0,31.0,m,White-European,no,United States,no,7.0,18 and more,Self,adult,1
+200,1,1,1,1,0,0,0,0,0,0,31.0,f,Pasifika,yes,United States,no,4.0,18 and more,Self,adult,0
+201,1,1,1,1,1,0,1,1,1,1,21.0,f,White-European,no,Australia,no,9.0,18 and more,Self,adult,1
+202,1,1,0,1,1,0,0,0,1,1,25.0,f,White-European,no,United States,no,6.0,18 and more,Self,adult,0
+203,1,1,0,1,1,0,0,1,1,1,25.0,f,White-European,no,United States,no,7.0,18 and more,Self,adult,1
+204,1,1,1,1,1,1,1,0,1,1,60.0,f,White-European,yes,United States,no,9.0,18 and more,Relative,adult,1
+205,1,0,1,1,0,0,0,0,0,0,39.0,m,White-European,yes,United States,no,3.0,18 and more,Self,adult,0
+206,1,1,1,1,1,1,1,1,1,1,53.0,m,White-European,no,United States,no,10.0,18 and more,Self,adult,1
+207,1,1,1,1,1,1,1,1,1,1,20.0,m,Middle Eastern,yes,United States,no,10.0,18 and more,Parent,adult,1
+208,1,1,1,0,1,0,0,1,1,1,25.0,f,White-European,no,United States,yes,7.0,18 and more,Self,adult,1
+209,1,1,1,1,0,0,1,1,0,0,50.0,m,White-European,no,United Kingdom,no,6.0,18 and more,Self,adult,0
+210,1,0,0,1,1,1,1,1,1,1,28.0,f,White-European,no,United States,no,8.0,18 and more,Self,adult,1
+211,1,0,1,1,1,1,1,1,1,1,37.0,f,White-European,yes,United Kingdom,no,9.0,18 and more,Self,adult,1
+212,0,0,0,1,0,1,0,1,1,1,30.0,m,Asian,yes,India,no,5.0,18 and more,Self,adult,0
+213,1,1,0,0,0,1,1,1,0,1,32.0,f,White-European,no,United Kingdom,no,6.0,18 and more,Self,adult,0
+214,1,0,1,1,0,0,0,0,0,1,34.0,f,White-European,no,United States,no,4.0,18 and more,Self,adult,0
+215,1,1,1,1,0,0,0,0,0,1,42.0,m,White-European,no,United States,no,5.0,18 and more,Self,adult,0
+216,1,1,0,0,1,1,1,1,1,1,22.0,f,Black,no,Spain,no,8.0,18 and more,Self,adult,1
+217,1,0,0,0,0,0,1,1,0,1,37.0,f,Unknown,no,United Arab Emirates,no,4.0,18 and more,Unknown,adult,0
+218,1,1,0,0,0,0,0,1,0,1,39.0,m,White-European,yes,United States,no,4.0,18 and more,Parent,adult,0
+219,1,1,0,1,1,0,1,1,0,1,18.0,m,White-European,no,Bangladesh,no,7.0,18 and more,Self,adult,1
+220,1,0,0,1,0,0,0,0,0,0,54.0,f,White-European,yes,United States,no,2.0,18 and more,Parent,adult,0
+221,1,1,0,0,0,0,0,1,0,0,42.0,m,White-European,no,United Kingdom,no,3.0,18 and more,Self,adult,0
+222,0,0,1,0,0,0,0,0,0,0,27.0,f,Unknown,no,Afghanistan,no,1.0,18 and more,Unknown,adult,0
+223,1,1,1,1,1,0,0,1,0,0,22.0,m,White-European,no,United Kingdom,no,6.0,18 and more,Self,adult,0
+224,1,0,1,1,0,1,1,1,1,1,22.0,m,White-European,no,United Kingdom,no,8.0,18 and more,Self,adult,1
+225,1,1,1,1,1,1,1,0,1,1,21.0,f,White-European,no,United Kingdom,no,9.0,18 and more,Self,adult,1
+226,0,1,0,1,0,0,0,1,0,1,28.0,f,White-European,no,United States,no,4.0,18 and more,Self,adult,0
+227,1,1,1,1,1,1,1,0,1,1,17.0,m,Asian,no,India,no,9.0,18 and more,Relative,adult,1
+228,0,1,0,0,0,0,0,0,0,0,28.0,m,White-European,no,United States,no,1.0,18 and more,Self,adult,0
+229,0,0,0,1,1,0,1,1,0,1,21.0,m,Latino,no,Mexico,no,5.0,18 and more,Self,adult,0
+230,1,1,1,1,1,1,1,1,1,1,31.0,f,Asian,no,New Zealand,no,10.0,18 and more,Self,adult,1
+231,1,0,0,0,0,0,1,1,0,0,20.0,m,South Asian,no,New Zealand,no,3.0,18 and more,Self,adult,0
+232,1,0,0,1,0,0,0,0,0,0,21.0,m,White-European,no,United Kingdom,no,2.0,18 and more,Self,adult,0
+233,1,1,0,0,1,0,0,0,0,0,22.0,m,White-European,no,New Zealand,no,3.0,18 and more,Self,adult,0
+234,0,1,0,0,0,0,0,1,1,1,21.0,m,White-European,no,New Zealand,no,4.0,18 and more,Self,adult,0
+235,0,1,1,0,0,0,0,0,0,0,24.0,m,Black,no,New Zealand,no,2.0,18 and more,Self,adult,0
+236,1,0,0,0,0,0,0,1,0,0,24.0,m,South Asian,no,India,no,2.0,18 and more,Self,adult,0
+237,1,0,0,0,1,1,1,1,0,1,25.0,m,Asian,no,New Zealand,no,6.0,18 and more,Self,adult,0
+238,1,0,0,0,0,0,0,0,0,1,17.0,m,South Asian,no,New Zealand,no,2.0,18 and more,Self,adult,0
+239,0,1,0,0,0,0,0,1,1,0,21.0,m,Unknown,no,Russia,no,3.0,18 and more,Unknown,adult,0
+240,1,0,0,0,0,0,0,1,0,0,23.0,m,Pasifika,no,New Zealand,no,2.0,18 and more,Self,adult,0
+241,1,0,0,1,1,0,1,1,0,0,21.0,m,Asian,no,New Zealand,no,5.0,18 and more,Self,adult,0
+242,1,0,0,0,1,0,1,1,1,1,22.0,m,Others,no,New Zealand,no,6.0,18 and more,Self,adult,0
+243,1,0,0,0,1,0,0,1,0,1,24.0,f,Asian,no,India,no,4.0,18 and more,Self,adult,0
+244,0,0,1,0,1,1,0,0,1,1,34.0,m,Others,no,New Zealand,no,5.0,18 and more,Self,adult,0
+245,1,0,1,0,1,0,1,1,0,1,30.0,m,Asian,no,New Zealand,no,6.0,18 and more,Self,adult,0
+246,1,0,0,0,0,0,1,1,0,1,29.0,f,Asian,no,India,no,4.0,18 and more,Self,adult,0
+247,1,0,0,1,1,0,1,1,0,0,20.0,m,Pasifika,no,New Zealand,no,5.0,18 and more,Self,adult,0
+248,0,0,1,1,0,1,0,1,1,1,23.0,m,White-European,no,New Zealand,no,6.0,18 and more,Self,adult,0
+249,0,0,0,0,0,0,0,1,0,1,26.0,m,Asian,no,India,no,2.0,18 and more,Self,adult,0
+250,1,0,0,1,1,1,1,1,1,1,20.0,m,South Asian,no,New Zealand,no,8.0,18 and more,Self,adult,1
+251,1,0,0,0,0,0,1,1,0,0,41.0,m,Asian,no,New Zealand,no,3.0,18 and more,Self,adult,0
+252,1,0,0,1,0,0,1,1,0,0,24.0,m,Asian,no,India,no,4.0,18 and more,Self,adult,0
+253,0,0,0,1,0,0,0,1,0,0,35.0,m,Asian,no,India,no,2.0,18 and more,Self,adult,0
+254,0,0,0,1,0,0,1,0,0,0,23.0,m,South Asian,no,India,no,2.0,18 and more,Self,adult,0
+255,1,0,1,0,0,0,1,0,0,0,36.0,m,White-European,no,New Zealand,no,3.0,18 and more,Self,adult,0
+256,1,1,0,0,1,0,0,1,0,0,33.0,m,Turkish,no,Armenia,no,4.0,18 and more,Self,adult,0
+257,1,0,0,0,0,1,0,1,1,1,24.0,m,South Asian,no,India,no,5.0,18 and more,Self,adult,0
+258,0,1,1,0,1,0,0,1,0,0,25.0,m,Unknown,no,New Zealand,no,4.0,18 and more,Unknown,adult,0
+259,1,0,0,0,1,1,0,1,0,1,25.0,m,Asian,no,India,no,5.0,18 and more,Self,adult,0
+260,1,0,0,0,0,0,1,1,1,1,25.0,m,Asian,no,India,no,5.0,18 and more,Self,adult,0
+261,0,0,0,0,0,0,1,1,0,1,24.0,m,Asian,no,India,no,3.0,18 and more,Self,adult,0
+262,1,0,1,0,1,0,0,1,0,1,27.0,f,South Asian,no,India,no,5.0,18 and more,Self,adult,0
+263,1,0,0,0,0,0,1,1,0,0,26.0,m,Asian,no,India,no,3.0,18 and more,Self,adult,0
+264,0,0,0,0,0,0,0,0,0,0,26.0,m,Others,no,New Zealand,no,0.0,18 and more,Self,adult,0
+265,1,0,0,0,1,0,0,1,1,0,23.0,f,Asian,no,India,no,4.0,18 and more,Self,adult,0
+266,1,1,1,0,1,0,1,1,0,1,30.0,m,Asian,no,New Zealand,no,7.0,18 and more,Self,adult,1
+267,1,0,0,1,0,0,0,0,1,0,25.0,m,Asian,no,Iceland,no,3.0,18 and more,Self,adult,0
+268,1,0,0,0,0,0,0,1,0,1,23.0,m,Pasifika,no,New Zealand,no,3.0,18 and more,Self,adult,0
+269,1,0,1,1,1,0,0,1,0,0,34.0,f,White-European,no,United States,no,5.0,18 and more,Self,adult,0
+270,1,0,0,1,1,0,1,1,0,1,20.0,f,Asian,no,New Zealand,no,6.0,18 and more,Self,adult,0
+271,1,0,1,1,1,1,0,0,1,1,22.0,f,Unknown,yes,Russia,no,7.0,18 and more,Unknown,adult,1
+272,1,1,1,1,0,0,0,1,1,1,33.0,f,Black,yes,France,no,7.0,18 and more,Parent,adult,1
+273,1,1,1,1,1,1,1,1,1,1,46.0,m,White-European,no,Netherlands,no,10.0,18 and more,Self,adult,1
+274,1,1,0,0,0,0,0,0,0,0,17.0,m,White-European,no,United Kingdom,no,2.0,18 and more,Others,adult,0
+275,1,1,1,0,0,0,0,1,0,0,45.0,f,White-European,yes,United States,no,4.0,18 and more,Self,adult,0
+276,0,1,1,1,0,0,0,0,1,0,26.0,m,Asian,no,India,no,4.0,18 and more,Others,adult,0
+277,1,0,0,0,1,0,0,0,1,0,30.0,m,Unknown,no,Jordan,no,3.0,18 and more,Unknown,adult,0
+278,1,1,0,0,0,0,0,0,0,0,32.0,f,Unknown,yes,Jordan,no,2.0,18 and more,Unknown,adult,0
+279,1,0,1,1,1,1,1,1,1,1,38.0,f,White-European,no,United Kingdom,no,9.0,18 and more,Self,adult,1
+280,0,1,1,0,1,0,0,0,0,0,26.0,m,Hispanic,no,Nicaragua,no,3.0,18 and more,Self,adult,0
+281,1,0,0,0,0,0,0,0,0,0,29.0,f,Hispanic,yes,United States,no,1.0,18 and more,Self,adult,0
+282,1,1,1,1,1,0,0,1,1,1,33.0,m,White-European,no,Australia,no,8.0,18 and more,Self,adult,1
+283,0,1,1,0,1,1,1,0,1,1,32.0,f,Black,no,France,no,7.0,18 and more,Parent,adult,1
+284,1,1,1,1,1,1,1,1,1,1,44.0,f,White-European,no,United States,no,10.0,18 and more,Self,adult,1
+285,0,1,0,0,0,0,1,0,0,1,47.0,f,White-European,no,United Kingdom,no,3.0,18 and more,Self,adult,0
+286,0,0,0,1,1,1,1,0,1,1,32.0,f,Unknown,no,Hong Kong,no,6.0,18 and more,Unknown,adult,0
+287,0,0,0,0,0,0,0,0,0,0,40.0,m,White-European,no,New Zealand,no,0.0,18 and more,Self,adult,0
+288,1,0,0,1,1,0,0,1,0,1,40.0,m,White-European,no,United States,no,5.0,18 and more,Self,adult,0
+289,0,0,0,0,0,0,0,0,0,0,44.0,f,White-European,no,New Zealand,no,0.0,18 and more,Self,adult,0
+290,1,1,1,0,1,1,1,0,1,1,56.0,m,White-European,no,United Kingdom,no,8.0,18 and more,Self,adult,1
+291,1,1,1,0,1,1,1,0,1,1,23.0,f,White-European,no,Ireland,no,8.0,18 and more,Self,adult,1
+292,1,1,0,1,1,0,0,1,1,1,32.0,f,Black,no,Canada,no,7.0,18 and more,Self,adult,1
+293,0,1,1,1,0,0,0,1,0,1,27.0,m,White-European,yes,United Kingdom,no,5.0,18 and more,Self,adult,0
+294,1,0,0,0,1,0,1,0,0,1,28.0,f,White-European,yes,United Kingdom,no,4.0,18 and more,Self,adult,0
+295,0,0,0,0,0,0,0,0,0,0,40.0,f,Middle Eastern,no,Afghanistan,no,0.0,18 and more,Parent,adult,0
+296,1,0,1,1,1,1,0,0,1,1,45.0,f,White-European,no,Canada,no,7.0,18 and more,Self,adult,1
+297,1,1,1,1,1,1,0,0,1,1,19.0,f,White-European,no,United Kingdom,no,8.0,18 and more,Parent,adult,1
+298,1,1,1,1,0,1,0,1,1,1,55.0,m,White-European,yes,United States,no,8.0,18 and more,Others,adult,1
+299,1,0,0,1,0,0,1,1,0,1,27.0,f,White-European,no,Australia,no,5.0,18 and more,Self,adult,0
+300,1,1,1,1,1,1,1,0,1,1,19.0,f,White-European,no,United Kingdom,no,9.0,18 and more,Self,adult,1
+301,1,0,0,1,0,0,0,1,0,0,29.0,m,White-European,no,Ireland,no,3.0,18 and more,Self,adult,0
+302,1,1,1,1,1,1,1,1,1,1,33.0,f,White-European,no,United Kingdom,no,10.0,18 and more,Self,adult,1
+303,0,0,1,1,1,1,1,1,0,0,48.0,f,White-European,no,Netherlands,no,6.0,18 and more,Self,adult,0
+304,0,0,0,0,0,0,0,1,1,0,37.0,f,Others,no,United Kingdom,no,2.0,18 and more,Self,adult,0
+305,1,1,1,1,1,0,0,0,1,0,30.0,m,Asian,no,Afghanistan,no,6.0,18 and more,Self,adult,0
+306,1,1,0,1,0,0,0,0,0,1,37.0,f,White-European,no,United Kingdom,no,4.0,18 and more,Self,adult,0
+307,1,0,0,1,1,0,1,1,1,1,28.0,f,Unknown,no,Saudi Arabia,no,7.0,18 and more,Unknown,adult,1
+308,1,0,0,1,1,1,1,1,1,1,20.0,f,White-European,no,Austria,no,8.0,18 and more,Self,adult,1
+309,1,1,1,1,1,1,0,0,1,1,25.0,f,Others,no,United States,no,8.0,18 and more,Self,adult,1
+310,1,1,1,1,1,1,0,1,0,0,58.0,f,Middle Eastern,no,United Kingdom,no,7.0,18 and more,Self,adult,1
+311,1,0,1,0,0,0,0,0,0,0,36.0,f,White-European,no,United States,no,2.0,18 and more,Self,adult,0
+312,0,0,1,1,1,0,0,1,0,0,36.0,m,White-European,no,United States,no,4.0,18 and more,Self,adult,0
+313,1,0,1,0,1,1,1,1,1,0,19.0,m,Hispanic,no,United States,no,7.0,18 and more,Self,adult,1
+314,1,0,1,1,1,1,0,1,1,0,19.0,m,Hispanic,no,United States,yes,7.0,18 and more,Self,adult,1
+315,1,0,0,1,1,0,0,1,0,1,22.0,f,White-European,no,New Zealand,no,5.0,18 and more,Self,adult,0
+316,1,1,0,0,0,0,0,1,0,0,20.0,m,Unknown,no,United Arab Emirates,no,3.0,18 and more,Unknown,adult,0
+317,0,1,0,0,0,0,1,1,0,1,24.0,f,Middle Eastern,no,United Arab Emirates,no,4.0,18 and more,Self,adult,0
+318,0,0,0,1,1,0,0,1,1,0,19.0,m,Middle Eastern,no,United Arab Emirates,no,4.0,18 and more,Self,adult,0
+319,1,1,1,0,1,0,0,1,0,1,21.0,m,Others,no,United Arab Emirates,no,6.0,18 and more,Self,adult,0
+320,0,0,0,0,0,0,0,0,0,0,20.0,m,Middle Eastern,no,United Arab Emirates,no,0.0,18 and more,Self,adult,0
+321,1,1,0,0,0,0,0,0,0,0,18.0,f,Middle Eastern,no,United Arab Emirates,no,2.0,18 and more,Self,adult,0
+322,0,1,1,0,0,0,0,1,0,1,23.0,f,Middle Eastern,no,United Arab Emirates,no,4.0,18 and more,Self,adult,0
+323,1,1,1,0,1,1,1,1,0,1,22.0,m,Middle Eastern,no,United Arab Emirates,no,8.0,18 and more,Self,adult,1
+324,1,1,0,1,1,0,0,0,0,0,18.0,f,South Asian,yes,Bangladesh,no,4.0,18 and more,Self,adult,0
+325,1,0,0,0,0,0,0,0,0,1,37.0,f,Unknown,no,United Arab Emirates,no,2.0,18 and more,Unknown,adult,0
+326,1,1,1,0,1,0,0,1,0,0,18.0,m,Middle Eastern,no,United Arab Emirates,no,5.0,18 and more,Relative,adult,0
+327,1,1,1,0,1,0,0,1,0,0,18.0,m,Middle Eastern,no,United Arab Emirates,no,5.0,18 and more,Relative,adult,0
+328,0,0,0,0,1,0,0,1,0,0,18.0,m,Middle Eastern,no,United Arab Emirates,no,2.0,18 and more,Relative,adult,0
+329,1,1,1,0,0,0,0,1,0,0,18.0,m,Middle Eastern,no,United Arab Emirates,no,4.0,18 and more,Relative,adult,0
+330,0,1,0,0,0,0,1,1,0,0,18.0,m,Middle Eastern,no,United Arab Emirates,no,3.0,18 and more,Relative,adult,0
+331,1,1,1,0,0,0,0,1,0,0,18.0,m,Middle Eastern,no,United Arab Emirates,no,4.0,18 and more,Relative,adult,0
+332,1,1,1,1,1,1,1,1,1,1,19.0,m,White-European,no,Austria,no,10.0,18 and more,Self,adult,1
+333,1,0,0,1,1,1,1,0,1,1,55.0,m,White-European,no,United Kingdom,no,7.0,18 and more,Self,adult,1
+334,1,0,0,0,0,1,1,0,1,1,32.0,f,Asian,no,Canada,no,5.0,18 and more,Parent,adult,0
+335,1,1,0,1,0,0,1,1,0,0,50.0,m,White-European,no,United Kingdom,no,5.0,18 and more,Self,adult,0
+336,1,1,1,1,0,0,1,1,0,0,40.0,m,White-European,no,United Kingdom,no,6.0,18 and more,Self,adult,0
+337,1,0,0,1,1,1,0,0,0,0,47.0,m,Middle Eastern,no,Jordan,no,4.0,18 and more,Self,adult,0
+338,1,1,0,0,0,0,0,0,0,1,20.0,m,Unknown,no,Jordan,no,3.0,18 and more,Unknown,adult,0
+339,1,0,1,0,0,0,1,1,0,0,22.0,f,Unknown,no,Jordan,no,4.0,18 and more,Unknown,adult,0
+340,1,0,0,0,0,0,1,0,0,0,21.0,f,Unknown,no,Jordan,no,2.0,18 and more,Unknown,adult,0
+341,1,0,1,1,0,0,1,1,1,0,21.0,f,Unknown,no,Jordan,no,6.0,18 and more,Unknown,adult,0
+342,1,1,1,1,1,0,0,1,0,0,19.0,m,Unknown,no,Jordan,no,6.0,18 and more,Unknown,adult,0
+343,1,0,1,1,0,0,0,0,0,0,21.0,f,Unknown,no,Jordan,no,3.0,18 and more,Unknown,adult,0
+344,1,0,0,1,0,0,0,0,0,0,21.0,m,Unknown,no,Jordan,no,2.0,18 and more,Unknown,adult,0
+345,0,1,0,1,0,1,0,1,0,1,23.0,f,Unknown,no,Jordan,no,5.0,18 and more,Unknown,adult,0
+346,1,0,0,0,0,0,0,0,0,0,21.0,m,Unknown,no,Jordan,no,1.0,18 and more,Unknown,adult,0
+347,1,0,0,0,1,0,1,1,1,0,21.0,m,Unknown,no,Jordan,no,5.0,18 and more,Unknown,adult,0
+348,0,0,0,0,0,0,0,1,0,0,23.0,m,Unknown,no,Jordan,no,1.0,18 and more,Unknown,adult,0
+349,1,0,1,1,0,1,1,1,1,1,20.0,f,Unknown,no,Jordan,no,8.0,18 and more,Unknown,adult,1
+350,1,1,1,0,0,0,0,1,0,1,21.0,f,Unknown,no,Jordan,no,5.0,18 and more,Unknown,adult,0
+351,1,1,1,0,1,0,1,1,1,1,20.0,m,Unknown,no,Argentina,no,8.0,18 and more,Unknown,adult,1
+352,1,1,0,0,0,0,1,1,0,0,19.0,m,Unknown,no,Jordan,no,4.0,18 and more,Unknown,adult,0
+353,0,1,0,0,0,0,0,1,0,0,21.0,m,Unknown,no,Jordan,no,2.0,18 and more,Unknown,adult,0
+354,1,0,1,0,0,0,1,0,0,0,26.0,m,Unknown,yes,Jordan,no,3.0,18 and more,Unknown,adult,0
+355,0,0,0,1,0,0,0,1,0,0,21.0,m,Unknown,no,Jordan,no,2.0,18 and more,Unknown,adult,0
+356,0,0,0,0,1,0,0,1,0,0,19.0,m,Unknown,no,Japan,no,2.0,18 and more,Unknown,adult,0
+357,1,0,0,1,0,0,0,1,0,1,22.0,m,Middle Eastern,no,United Arab Emirates,no,4.0,18 and more,Parent,adult,0
+358,1,0,0,0,0,0,0,1,0,0,19.0,f,Middle Eastern,no,United Arab Emirates,no,2.0,18 and more,Self,adult,0
+359,1,0,0,1,0,0,1,0,0,1,22.0,m,Middle Eastern,no,United Arab Emirates,no,4.0,18 and more,Self,adult,0
+360,0,0,1,0,0,0,0,0,0,1,20.0,m,Middle Eastern,no,United Arab Emirates,no,2.0,18 and more,Self,adult,0
+361,1,0,1,0,1,0,0,1,0,0,23.0,m,Middle Eastern,no,United Arab Emirates,no,4.0,18 and more,Self,adult,0
+362,0,0,0,0,0,1,0,1,0,0,19.0,f,Unknown,no,Ukraine,no,2.0,18 and more,Unknown,adult,0
+363,0,0,0,0,1,0,0,1,0,1,20.0,m,Middle Eastern,no,United Arab Emirates,no,3.0,18 and more,Parent,adult,0
+364,0,1,0,1,0,0,0,0,0,0,24.0,m,Middle Eastern,no,United Arab Emirates,no,2.0,18 and more,Self,adult,0
+365,0,1,1,0,0,0,0,1,0,1,19.0,m,Middle Eastern,no,United Arab Emirates,no,4.0,18 and more,Self,adult,0
+366,1,0,0,0,0,1,0,1,0,1,20.0,m,Unknown,no,United Arab Emirates,no,4.0,18 and more,Unknown,adult,0
+367,1,0,1,0,1,0,0,1,0,1,23.0,m,Middle Eastern,yes,United Arab Emirates,no,5.0,18 and more,Self,adult,0
+368,0,0,1,1,0,0,1,0,0,1,20.0,m,Others,no,Russia,no,4.0,18 and more,Self,adult,0
+369,1,0,1,0,1,0,0,1,0,1,20.0,m,Middle Eastern,no,United Arab Emirates,no,5.0,18 and more,Self,adult,0
+370,0,0,0,0,0,0,0,1,1,0,20.0,m,Unknown,no,United Arab Emirates,no,2.0,18 and more,Unknown,adult,0
+371,1,0,1,0,0,0,0,0,0,1,20.0,f,Unknown,no,United Arab Emirates,no,3.0,18 and more,Unknown,adult,0
+372,1,0,0,1,1,0,0,1,0,1,21.0,f,Asian,no,Afghanistan,no,5.0,18 and more,Self,adult,0
+373,0,1,0,0,0,0,0,0,0,1,19.0,m,Unknown,no,Kazakhstan,no,2.0,18 and more,Unknown,adult,0
+374,1,0,0,0,0,0,0,1,0,1,20.0,f,Middle Eastern,no,United Arab Emirates,no,3.0,18 and more,Self,adult,0
+375,1,0,0,1,1,0,1,0,0,1,20.0,m,Middle Eastern,no,Saudi Arabia,no,5.0,18 and more,Self,adult,0
+376,1,0,0,0,0,1,0,0,1,0,25.0,m,Middle Eastern,yes,Armenia,yes,3.0,18 and more,Relative,adult,0
+377,1,0,0,0,0,0,0,1,0,0,20.0,f,Middle Eastern,no,United Arab Emirates,no,2.0,18 and more,Self,adult,0
+378,1,0,0,0,0,1,1,1,0,1,22.0,m,Middle Eastern,no,AmericanSamoa,no,5.0,18 and more,Self,adult,0
+379,1,0,0,0,0,0,0,1,0,0,20.0,f,Unknown,no,United Arab Emirates,no,2.0,18 and more,Unknown,adult,0
+380,0,1,0,0,1,1,0,0,0,0,20.0,m,Unknown,no,United Arab Emirates,no,3.0,18 and more,Unknown,adult,0
+381,0,0,0,1,0,0,1,0,0,0,20.0,f,Unknown,no,Jordan,no,2.0,18 and more,Unknown,adult,0
+382,1,0,0,0,0,0,0,1,0,0,23.0,f,Unknown,no,Jordan,no,2.0,18 and more,Unknown,adult,0
+383,1,1,1,1,1,0,1,0,1,1,21.0,f,Unknown,no,Jordan,no,8.0,18 and more,Unknown,adult,1
+384,1,0,0,0,0,0,1,1,0,1,22.0,m,Unknown,no,Jordan,no,4.0,18 and more,Unknown,adult,0
+385,1,1,0,0,0,0,0,1,0,0,21.0,f,Unknown,no,Jordan,no,3.0,18 and more,Unknown,adult,0
+386,1,0,1,0,0,0,0,0,0,1,20.0,f,Unknown,no,Jordan,no,3.0,18 and more,Unknown,adult,0
+387,1,0,0,1,0,0,0,0,0,0,22.0,f,Unknown,no,Jordan,no,2.0,18 and more,Unknown,adult,0
+388,1,0,1,1,1,0,1,1,0,0,21.0,f,Unknown,no,Jordan,no,6.0,18 and more,Unknown,adult,0
+389,1,1,0,0,1,0,0,1,0,0,20.0,f,Unknown,no,Jordan,no,4.0,18 and more,Unknown,adult,0
+390,0,1,0,0,0,0,0,1,0,0,20.0,f,Middle Eastern,no,United Arab Emirates,no,2.0,18 and more,Self,adult,0
+391,1,0,0,0,1,0,0,1,0,0,21.0,m,Unknown,no,Jordan,no,3.0,18 and more,Unknown,adult,0
+392,1,0,1,1,1,0,0,0,1,1,21.0,m,Middle Eastern,no,United Arab Emirates,no,6.0,18 and more,Self,adult,0
+393,0,1,0,0,0,1,0,1,0,1,23.0,f,Middle Eastern,no,United Arab Emirates,no,4.0,18 and more,Self,adult,0
+394,1,1,0,0,0,0,0,1,0,0,21.0,f,Turkish,no,United Arab Emirates,no,3.0,18 and more,Self,adult,0
+395,1,0,0,0,1,1,0,1,0,1,22.0,f,Black,no,United Arab Emirates,no,5.0,18 and more,Self,adult,0
+396,0,1,1,1,0,1,0,1,0,0,19.0,f,Unknown,no,United Arab Emirates,no,5.0,18 and more,Unknown,adult,0
+397,1,1,1,0,1,0,0,0,0,0,20.0,f,Asian,no,United Arab Emirates,no,4.0,18 and more,Self,adult,0
+398,0,1,0,0,0,0,0,1,0,1,21.0,f,Others,no,United Arab Emirates,no,3.0,18 and more,Self,adult,0
+399,0,1,1,0,0,0,0,1,0,0,26.0,m,Middle Eastern,no,United Arab Emirates,no,3.0,18 and more,Self,adult,0
+400,1,0,0,0,0,0,0,0,0,0,19.0,f,Unknown,no,Kazakhstan,no,1.0,18 and more,Unknown,adult,0
+401,1,0,0,1,0,0,1,1,0,1,20.0,f,Unknown,no,United Arab Emirates,no,5.0,18 and more,Unknown,adult,0
+402,1,0,0,0,0,0,0,1,0,1,26.0,f,Unknown,no,United Arab Emirates,no,3.0,18 and more,Unknown,adult,0
+403,1,0,0,1,0,0,1,0,0,1,23.0,f,Black,no,United Arab Emirates,no,4.0,18 and more,Self,adult,0
+404,1,0,0,1,0,0,1,0,0,1,28.0,f,Unknown,no,United Arab Emirates,no,4.0,18 and more,Unknown,adult,0
+405,0,1,0,1,1,0,0,0,0,0,19.0,f,Middle Eastern,no,United Arab Emirates,no,3.0,18 and more,Self,adult,0
+406,1,0,0,0,0,0,1,1,0,0,20.0,f,Middle Eastern,no,United Arab Emirates,no,3.0,18 and more,Self,adult,0
+407,0,1,0,0,1,0,1,1,0,1,19.0,f,Black,no,United Arab Emirates,no,5.0,18 and more,Self,adult,0
+408,1,0,1,1,1,1,1,1,1,0,24.0,m,Asian,no,India,no,8.0,18 and more,Self,adult,1
+409,1,0,0,1,1,0,0,1,0,1,19.0,f,South Asian,no,United Arab Emirates,no,5.0,18 and more,Self,adult,0
+410,1,1,0,0,0,0,0,0,0,0,22.0,f,Middle Eastern,no,United Arab Emirates,no,2.0,18 and more,Self,adult,0
+411,1,1,0,1,0,0,0,0,0,1,20.0,f,Middle Eastern,no,United Arab Emirates,no,4.0,18 and more,Self,adult,0
+412,0,1,0,1,0,0,0,1,0,0,21.0,m,Middle Eastern,no,United Arab Emirates,no,3.0,18 and more,Self,adult,0
+413,0,0,1,1,1,0,0,1,0,0,24.0,f,Others,no,United Arab Emirates,no,4.0,18 and more,Self,adult,0
+414,0,0,1,1,1,0,0,0,0,1,18.0,f,Middle Eastern,no,United Arab Emirates,no,4.0,18 and more,Self,adult,0
+415,1,0,1,1,1,0,1,1,0,1,19.0,f,Middle Eastern,no,United Arab Emirates,no,7.0,18 and more,Self,adult,1
+416,1,0,1,0,0,0,0,0,0,0,19.0,f,Middle Eastern,no,United Arab Emirates,no,2.0,18 and more,Self,adult,0
+417,1,0,0,0,0,0,1,1,0,1,31.0,m,Middle Eastern,no,United Arab Emirates,no,4.0,18 and more,Self,adult,0
+418,1,1,0,1,0,0,1,1,0,0,19.0,m,Middle Eastern,no,United Arab Emirates,no,5.0,18 and more,Self,adult,0
+419,1,0,0,0,0,0,1,0,1,1,21.0,f,Middle Eastern,no,United Arab Emirates,no,4.0,18 and more,Self,adult,0
+420,1,0,0,0,1,0,1,0,0,1,20.0,m,Middle Eastern,no,United Arab Emirates,no,4.0,18 and more,Self,adult,0
+421,1,0,1,0,1,0,1,1,0,1,26.0,f,Middle Eastern,no,United Arab Emirates,no,6.0,18 and more,Self,adult,0
+422,0,0,0,0,0,0,1,0,0,0,27.0,m,Middle Eastern,no,Afghanistan,no,1.0,18 and more,Self,adult,0
+423,1,0,1,0,0,1,0,1,0,0,23.0,f,Middle Eastern,no,United Arab Emirates,no,4.0,18 and more,Self,adult,0
+424,0,1,0,1,0,0,0,0,0,0,29.0,f,Unknown,no,United Arab Emirates,no,2.0,18 and more,Unknown,adult,0
+425,1,1,1,1,0,0,1,0,0,0,23.0,m,Middle Eastern,no,United Arab Emirates,no,5.0,18 and more,Self,adult,0
+426,1,0,0,0,0,0,1,1,0,1,23.0,m,Turkish,no,United Arab Emirates,no,4.0,18 and more,Others,adult,0
+427,1,0,1,1,1,1,0,1,1,1,24.0,m,Asian,yes,India,no,8.0,18 and more,Self,adult,1
+428,1,0,0,1,0,0,1,1,0,0,21.0,m,Unknown,no,Jordan,no,4.0,18 and more,Unknown,adult,0
+429,0,0,0,0,1,0,1,0,0,0,20.0,f,Unknown,no,Brazil,yes,2.0,18 and more,Unknown,adult,0
+430,1,0,1,0,1,0,1,1,1,0,20.0,m,Unknown,no,Jordan,no,6.0,18 and more,Unknown,adult,0
+431,1,1,1,1,1,1,1,0,1,1,32.0,f,Black,no,France,no,9.0,18 and more,Parent,adult,1
+432,1,1,1,1,1,1,1,1,1,1,61.0,m,White-European,yes,Uruguay,no,10.0,18 and more,Self,adult,1
+433,1,0,0,1,1,0,0,0,0,0,19.0,m,Unknown,no,Jordan,no,3.0,18 and more,Unknown,adult,0
+434,1,1,1,1,1,1,0,1,1,0,35.0,f,White-European,no,Italy,no,8.0,18 and more,Self,adult,1
+435,1,0,0,0,0,1,0,0,0,1,34.0,f,White-European,no,Ukraine,yes,3.0,18 and more,Self,adult,0
+436,0,0,1,1,0,0,0,0,0,0,23.0,f,Middle Eastern,no,United Arab Emirates,yes,2.0,18 and more,Self,adult,0
+437,1,1,1,1,0,0,0,0,0,1,19.0,f,White-European,no,Serbia,no,5.0,18 and more,Self,adult,0
+438,1,1,0,0,1,1,0,1,0,1,36.0,f,Others,no,Philippines,no,6.0,18 and more,Parent,adult,0
+439,1,1,0,0,0,0,0,1,0,1,21.0,f,Unknown,no,Jordan,no,4.0,18 and more,Unknown,adult,0
+440,0,1,0,0,0,0,0,1,0,0,23.0,m,White-European,no,United States,no,2.0,18 and more,Self,adult,0
+441,1,0,1,1,1,0,1,0,0,1,17.0,m,Black,no,United States,no,6.0,18 and more,Relative,adult,0
+442,1,0,1,0,0,0,0,0,0,0,22.0,m,White-European,no,Portugal,no,2.0,18 and more,Self,adult,0
+443,0,1,1,1,1,0,1,0,0,1,33.0,m,White-European,yes,Australia,no,6.0,18 and more,Relative,adult,0
+444,1,1,1,1,1,0,0,1,0,1,23.0,f,Asian,no,Malaysia,no,7.0,18 and more,Self,adult,1
+445,0,1,1,1,1,1,0,1,0,1,35.0,f,White-European,yes,Sweden,no,7.0,18 and more,Self,adult,1
+446,1,0,0,0,0,0,0,1,0,1,21.0,m,White-European,yes,Australia,no,3.0,18 and more,Self,adult,0
+447,1,0,0,1,1,0,1,1,1,1,20.0,f,White-European,no,Austria,no,7.0,18 and more,Self,adult,1
+448,1,0,0,0,0,0,0,1,0,0,29.0,m,White-European,no,Netherlands,no,2.0,18 and more,Health care professional,adult,0
+449,1,1,1,1,1,1,1,0,1,1,59.0,m,White-European,no,United States,no,9.0,18 and more,Self,adult,1
+450,1,1,1,0,0,0,0,1,0,1,18.0,f,White-European,no,Netherlands,no,5.0,18 and more,Self,adult,0
+451,1,1,0,0,0,0,0,1,0,0,19.0,f,Middle Eastern,no,United Arab Emirates,no,3.0,18 and more,Self,adult,0
+452,0,0,1,1,0,0,0,1,0,0,24.0,m,Middle Eastern,no,United Arab Emirates,no,3.0,18 and more,Self,adult,0
+453,1,1,1,1,1,0,0,1,1,0,36.0,f,White-European,no,Italy,no,7.0,18 and more,Self,adult,1
+454,0,0,1,1,1,0,0,0,0,1,19.0,f,Unknown,no,Jordan,no,4.0,18 and more,Unknown,adult,0
+455,1,1,0,0,0,0,1,0,0,0,17.0,f,Black,no,United Arab Emirates,no,3.0,18 and more,Self,adult,0
+456,1,0,0,0,0,0,0,1,0,1,52.0,m,White-European,no,United Kingdom,no,3.0,18 and more,Self,adult,0
+457,1,1,0,1,1,0,0,0,0,0,18.0,m,Middle Eastern,no,United Arab Emirates,no,4.0,18 and more,Self,adult,0
+458,0,0,0,0,0,0,1,0,0,0,30.0,m,Asian,no,Philippines,no,1.0,18 and more,Self,adult,0
+459,0,1,1,1,1,1,0,1,1,1,18.0,m,Middle Eastern,no,New Zealand,no,8.0,18 and more,Self,adult,1
+460,1,1,1,1,1,0,0,1,0,0,27.0,m,Latino,no,Ecuador,no,6.0,18 and more,Self,adult,0
+461,0,0,0,1,0,0,0,0,0,0,52.0,f,White-European,no,United Kingdom,no,1.0,18 and more,Self,adult,0
+462,0,0,0,0,0,0,0,1,0,0,45.0,f,Asian,no,Viet Nam,no,1.0,18 and more,Self,adult,0
+463,0,1,1,1,1,1,0,0,1,0,25.0,f,Others,no,Afghanistan,no,6.0,18 and more,Health care professional,adult,0
+464,0,0,0,1,0,0,1,0,0,1,29.0,f,White-European,no,United Kingdom,no,3.0,18 and more,Self,adult,0
+465,1,1,0,1,1,1,1,1,0,1,29.0,f,White-European,no,United States,no,8.0,18 and more,Self,adult,1
+466,1,0,0,0,0,1,0,0,0,1,18.0,m,White-European,yes,Netherlands,no,3.0,18 and more,Self,adult,0
+467,0,0,1,1,0,1,1,1,1,1,18.0,m,White-European,no,Netherlands,no,7.0,18 and more,Relative,adult,1
+468,1,0,1,1,0,1,0,0,0,1,17.0,m,White-European,no,Netherlands,no,5.0,18 and more,Relative,adult,0
+469,1,1,1,1,1,1,1,1,1,1,27.0,f,Asian,no,United States,no,10.0,18 and more,Self,adult,1
+470,0,0,0,0,0,0,0,1,0,0,22.0,f,Asian,no,Malaysia,no,1.0,18 and more,Self,adult,0
+471,0,0,0,0,0,1,0,1,1,0,23.0,m,Asian,no,India,no,3.0,18 and more,Self,adult,0
+472,1,1,1,1,1,0,1,1,0,0,25.0,m,Latino,no,United Kingdom,no,7.0,18 and more,Self,adult,1
+473,1,0,1,1,1,0,0,0,0,0,23.0,f,South Asian,no,New Zealand,no,4.0,18 and more,Self,adult,0
+474,1,0,0,0,0,0,0,1,0,1,29.0,m,Asian,no,India,no,3.0,18 and more,Self,adult,0
+475,1,0,0,1,1,0,1,0,0,0,27.0,f,Asian,no,Sri Lanka,no,4.0,18 and more,Self,adult,0
+476,1,0,0,0,0,1,0,1,0,0,27.0,f,Asian,no,India,no,3.0,18 and more,Self,adult,0
+477,0,0,0,0,0,0,0,0,0,0,43.0,f,South Asian,no,India,no,0.0,18 and more,Parent,adult,0
+478,1,0,0,0,0,0,0,1,0,0,26.0,f,Asian,no,India,no,2.0,18 and more,Self,adult,0
+479,1,0,0,0,1,0,0,1,0,1,30.0,f,Asian,no,India,no,4.0,18 and more,Self,adult,0
+480,0,0,0,0,0,0,0,1,0,0,23.0,m,White-European,no,India,no,1.0,18 and more,Self,adult,0
+481,1,0,0,0,1,0,1,1,0,0,29.0,f,Asian,no,Sri Lanka,no,4.0,18 and more,Self,adult,0
+482,0,0,0,0,0,0,0,1,0,1,37.0,m,White-European,no,United Kingdom,no,2.0,18 and more,Parent,adult,0
+483,0,0,0,0,0,0,1,0,0,1,28.0,f,White-European,no,United Kingdom,no,2.0,18 and more,Self,adult,0
+484,1,1,1,1,0,0,1,1,0,0,25.0,m,South Asian,no,United States,no,6.0,18 and more,Self,adult,0
+485,1,0,1,1,0,0,1,1,0,0,25.0,m,Others,no,India,no,5.0,18 and more,Self,adult,0
+486,0,1,0,0,0,0,0,1,1,0,21.0,m,Unknown,no,Jordan,no,3.0,18 and more,Unknown,adult,0
+487,1,1,1,1,1,1,1,0,1,1,43.0,m,White-European,no,United Kingdom,no,9.0,18 and more,Self,adult,1
+488,1,1,0,1,1,1,0,0,1,1,30.0,f,White-European,no,United States,no,7.0,18 and more,Self,adult,1
+489,0,1,1,0,0,0,1,0,0,1,18.0,m,Black,no,Niger,no,4.0,18 and more,Self,adult,0
+490,1,1,1,1,0,0,0,1,0,0,18.0,f,White-European,no,Romania,no,5.0,18 and more,Self,adult,0
+491,1,1,1,1,0,0,1,1,1,0,30.0,m,Others,no,Canada,no,7.0,18 and more,Self,adult,1
+492,0,0,0,0,0,0,0,0,0,0,31.0,f,White-European,no,Germany,no,0.0,18 and more,Self,adult,0
+493,1,0,0,0,1,0,1,1,0,1,33.0,m,Latino,no,Mexico,no,5.0,18 and more,Self,adult,0
+494,1,1,1,1,1,1,1,1,1,1,33.0,m,Latino,no,Mexico,no,10.0,18 and more,Self,adult,1
+495,1,1,1,1,0,0,1,0,0,1,26.0,m,White-European,no,United Kingdom,no,6.0,18 and more,Self,adult,0
+496,1,0,1,1,0,0,0,0,0,0,61.0,f,White-European,no,United States,no,3.0,18 and more,Self,adult,0
+497,0,0,0,1,0,0,0,1,0,1,46.0,m,Others,no,Viet Nam,no,3.0,18 and more,Self,adult,0
+498,0,1,1,1,1,1,1,0,1,1,33.0,m,Asian,no,India,no,8.0,18 and more,Self,adult,1
+499,1,1,1,1,1,0,1,1,0,1,38.0,f,Black,no,Canada,no,8.0,18 and more,Self,adult,1
+500,1,1,0,0,0,0,0,1,0,0,44.0,m,Black,no,France,no,3.0,18 and more,Parent,adult,0
+501,0,1,1,1,1,0,0,0,1,0,48.0,f,Black,yes,France,no,5.0,18 and more,Parent,adult,0
+502,1,1,0,1,1,1,0,1,1,1,42.0,f,Latino,no,Mexico,no,8.0,18 and more,Self,adult,1
+503,0,1,0,0,1,0,1,1,0,0,37.0,m,White-European,no,Belgium,no,4.0,18 and more,Self,adult,0
+504,1,0,1,1,1,0,0,1,0,1,23.0,f,White-European,yes,United Kingdom,no,6.0,18 and more,Self,adult,0
+505,1,0,1,1,1,0,1,1,1,1,24.0,m,White-European,yes,United Kingdom,no,8.0,18 and more,Relative,adult,1
+506,1,0,1,0,1,0,1,1,0,1,41.0,m,Unknown,yes,United Kingdom,no,6.0,18 and more,Unknown,adult,0
+507,1,0,1,0,0,0,1,0,0,1,41.0,m,Asian,no,United Kingdom,no,4.0,18 and more,Self,adult,0
+508,0,1,1,0,1,0,0,1,0,0,27.0,m,White-European,no,Belgium,no,4.0,18 and more,Self,adult,0
+509,1,1,1,1,1,1,1,1,1,1,46.0,f,White-European,yes,United Kingdom,no,10.0,18 and more,Self,adult,1
+510,0,1,0,0,0,0,0,0,0,1,40.0,f,White-European,no,United States,no,2.0,18 and more,Self,adult,0
+511,0,1,1,1,1,1,1,1,0,1,22.0,f,White-European,no,United States,no,8.0,18 and more,Self,adult,1
+512,1,1,1,1,1,1,1,0,1,1,42.0,m,White-European,no,United Kingdom,no,9.0,18 and more,Self,adult,1
+513,1,1,1,0,0,0,0,0,0,1,18.0,f,Asian,no,Viet Nam,no,4.0,18 and more,Self,adult,0
+514,1,0,1,1,0,0,0,0,0,0,44.0,f,White-European,no,United Kingdom,no,3.0,18 and more,Self,adult,0
+515,1,1,1,1,1,0,1,1,1,1,30.0,f,White-European,no,United States,no,9.0,18 and more,Self,adult,1
+516,1,1,1,1,1,1,0,1,1,1,42.0,m,White-European,no,Australia,no,9.0,18 and more,Self,adult,1
+517,1,1,0,1,0,0,1,0,0,0,35.0,f,White-European,yes,United States,no,4.0,18 and more,Parent,adult,0
+518,1,0,1,1,1,0,1,0,1,1,40.0,m,Black,no,AmericanSamoa,no,7.0,18 and more,Self,adult,1
+519,0,1,0,0,0,0,0,0,1,1,50.0,f,Unknown,no,New Zealand,no,3.0,18 and more,Unknown,adult,0
+520,0,0,1,1,0,0,0,0,0,1,38.0,m,Middle Eastern,no,Egypt,no,3.0,18 and more,Self,adult,0
+521,1,1,1,1,1,0,0,1,1,1,26.0,f,White-European,yes,Italy,no,8.0,18 and more,Self,adult,1
+522,1,1,1,1,1,0,0,1,0,1,27.0,f,White-European,no,Malaysia,no,7.0,18 and more,Self,adult,1
+523,1,1,1,1,1,0,1,0,1,0,47.0,f,White-European,yes,United States,no,7.0,18 and more,Self,adult,1
+524,1,1,0,1,1,1,0,0,0,1,21.0,m,Black,yes,United States,no,6.0,18 and more,Parent,adult,0
+525,1,1,1,1,0,1,0,1,1,1,37.0,m,White-European,no,United Kingdom,no,8.0,18 and more,Self,adult,1
+526,1,0,0,0,0,0,1,1,0,1,19.0,f,Others,no,United Kingdom,no,4.0,18 and more,Self,adult,0
+527,0,0,0,1,0,0,1,1,0,1,32.0,m,Asian,no,United Arab Emirates,no,4.0,18 and more,Self,adult,0
+528,0,0,0,0,1,0,0,1,0,1,26.0,f,Unknown,no,Iran,no,3.0,18 and more,Unknown,adult,0
+529,1,1,1,1,1,1,1,1,1,1,46.0,f,White-European,yes,Australia,no,10.0,18 and more,Self,adult,1
+530,0,1,0,0,0,0,0,1,0,0,29.0,m,Black,no,France,no,2.0,18 and more,Self,adult,0
+531,1,0,0,0,1,0,0,0,0,0,30.0,f,Black,no,France,no,2.0,18 and more,Self,adult,0
+532,1,1,0,0,0,0,1,1,0,0,32.0,f,Latino,no,Bolivia,no,4.0,18 and more,Relative,adult,0
+533,0,1,1,1,0,0,0,0,0,1,35.0,f,White-European,no,United States,no,4.0,18 and more,Self,adult,0
+534,0,1,1,1,1,1,1,1,1,1,22.0,m,White-European,no,United Kingdom,no,9.0,18 and more,Self,adult,1
+535,0,0,0,1,1,0,1,0,0,1,19.0,f,Unknown,no,Iran,no,4.0,18 and more,Unknown,adult,0
+536,0,1,0,0,1,0,0,0,0,1,24.0,m,Unknown,no,Iran,no,3.0,18 and more,Unknown,adult,0
+537,0,1,0,0,1,0,0,0,0,0,52.0,f,Unknown,no,Iran,no,2.0,18 and more,Unknown,adult,0
+538,0,1,0,0,1,1,0,0,1,1,52.0,m,Unknown,no,Iran,no,5.0,18 and more,Unknown,adult,0
+539,1,0,1,0,0,1,0,1,0,0,32.0,f,White-European,no,United States,no,4.0,18 and more,Self,adult,0
+540,0,1,1,1,1,1,0,0,0,1,24.0,m,White-European,no,United States,no,6.0,18 and more,Relative,adult,0
+541,1,1,1,1,1,1,0,1,1,1,24.0,m,White-European,no,United States,no,9.0,18 and more,Relative,adult,1
+542,0,1,0,0,0,0,0,0,0,0,49.0,f,Middle Eastern,no,New Zealand,no,1.0,18 and more,Parent,adult,0
+543,0,1,1,1,1,1,1,1,1,1,30.0,f,Asian,no,Malaysia,no,9.0,18 and more,Self,adult,1
+544,0,1,1,1,1,1,1,1,1,1,30.0,f,Asian,yes,Malaysia,yes,9.0,18 and more,Self,adult,1
+545,1,0,1,1,1,1,1,1,1,1,35.0,f,White-European,no,United Kingdom,no,9.0,18 and more,Self,adult,1
+546,1,0,1,1,1,1,1,0,0,1,35.0,f,White-European,no,United Kingdom,no,7.0,18 and more,Self,adult,1
+547,1,0,1,1,0,0,0,0,0,1,37.0,f,White-European,yes,United Kingdom,no,4.0,18 and more,Self,adult,0
+548,0,1,1,1,0,0,0,1,0,1,43.0,m,White-European,no,United Kingdom,no,5.0,18 and more,Self,adult,0
+549,1,1,1,1,0,0,1,0,0,1,52.0,m,White-European,no,United Kingdom,no,6.0,18 and more,Self,adult,0
+550,1,1,1,1,1,1,1,1,1,1,44.0,m,White-European,yes,United Kingdom,no,10.0,18 and more,Self,adult,1
+551,1,1,0,0,0,0,0,0,0,0,46.0,f,White-European,yes,United Kingdom,no,2.0,18 and more,Self,adult,0
+552,1,0,0,0,1,0,0,0,0,1,42.0,f,White-European,yes,Australia,no,3.0,18 and more,Self,adult,0
+553,0,0,1,0,0,0,0,0,0,0,20.0,m,Asian,no,Aruba,no,1.0,18 and more,Self,adult,0
+554,1,1,1,0,1,0,1,0,1,1,18.0,m,Middle Eastern,no,New Zealand,no,7.0,18 and more,Self,adult,1
+555,1,1,1,1,1,1,0,1,1,1,38.0,m,White-European,no,Finland,no,9.0,18 and more,Relative,adult,1
+556,1,0,0,1,1,0,0,1,0,0,24.0,f,Latino,yes,Mexico,no,4.0,18 and more,Self,adult,0
+557,1,1,0,0,0,0,0,1,0,0,32.0,m,Unknown,no,Jordan,no,3.0,18 and more,Unknown,adult,0
+558,1,1,0,1,1,0,0,0,0,0,29.0,m,Turkish,no,United States,no,4.0,18 and more,Self,adult,0
+559,1,1,1,1,1,1,1,1,0,1,22.0,f,White-European,no,United States,no,9.0,18 and more,Self,adult,1
+560,0,1,1,1,1,1,0,0,0,1,19.0,f,White-European,no,United Kingdom,no,6.0,18 and more,Self,adult,0
+561,1,1,1,1,1,1,1,0,1,1,39.0,f,White-European,yes,United States,no,9.0,18 and more,Self,adult,1
+562,1,0,0,1,1,1,1,1,1,1,17.0,m,Black,no,United States,no,8.0,18 and more,Self,adult,1
+563,0,1,0,1,0,1,1,0,1,1,19.0,f,Middle Eastern,no,Iceland,no,6.0,18 and more,Parent,adult,0
+564,1,0,0,0,0,0,1,1,1,0,18.0,m,White-European,no,Australia,no,4.0,18 and more,Parent,adult,0
+565,0,1,0,0,1,1,0,0,1,0,19.0,m,Unknown,no,Kazakhstan,yes,4.0,18 and more,Unknown,adult,0
+566,0,1,0,0,0,0,0,1,0,0,28.0,f,Turkish,no,Turkey,no,2.0,18 and more,Self,adult,0
+567,0,1,0,1,0,1,0,0,0,1,29.0,m,Asian,no,New Zealand,no,4.0,18 and more,Self,adult,0
+568,1,1,0,0,0,0,1,1,0,0,48.0,m,White-European,no,Australia,no,4.0,18 and more,Self,adult,0
+569,1,1,1,1,1,1,0,1,1,1,27.0,f,White-European,yes,Netherlands,no,9.0,18 and more,Self,adult,1
+570,1,0,1,1,0,0,0,0,0,0,34.0,f,White-European,no,United Kingdom,no,3.0,18 and more,Self,adult,0
+571,1,1,0,1,0,0,0,0,0,1,31.0,m,White-European,no,Australia,no,4.0,18 and more,Self,adult,0
+572,1,0,0,0,0,0,0,1,0,1,47.0,m,Unknown,no,Jordan,no,3.0,18 and more,Unknown,adult,0
+573,1,0,0,1,0,0,0,1,0,0,47.0,m,Unknown,no,Jordan,no,3.0,18 and more,Unknown,adult,0
+574,1,1,1,1,1,1,1,1,1,1,44.0,m,White-European,yes,United Kingdom,no,10.0,18 and more,Self,adult,1
+575,1,0,0,0,1,0,1,1,0,0,25.0,f,White-European,no,United States,no,4.0,18 and more,Self,adult,0
+576,1,0,0,0,1,0,1,1,0,0,25.0,f,White-European,no,United States,no,4.0,18 and more,Self,adult,0
+577,1,1,0,0,1,1,1,1,1,1,20.0,m,White-European,no,United Kingdom,no,8.0,18 and more,Self,adult,1
+578,1,1,1,1,1,0,1,1,1,1,43.0,m,White-European,no,New Zealand,no,9.0,18 and more,Self,adult,1
+579,1,1,1,1,1,0,0,1,1,1,36.0,f,White-European,yes,United Kingdom,no,8.0,18 and more,Self,adult,1
+580,1,1,0,0,0,0,0,1,0,0,30.0,f,Asian,yes,United States,no,3.0,18 and more,Self,adult,0
+581,0,0,1,1,0,0,0,0,0,0,44.0,m,Black,no,United Kingdom,no,2.0,18 and more,Self,adult,0
+582,1,1,0,0,1,0,0,0,0,1,40.0,f,Black,no,United Kingdom,no,4.0,18 and more,Parent,adult,0
+583,1,1,0,0,1,1,0,1,1,0,40.0,f,Black,no,United Kingdom,no,6.0,18 and more,Relative,adult,0
+584,1,1,0,1,1,1,0,1,1,0,40.0,f,Black,yes,United Kingdom,no,7.0,18 and more,Relative,adult,1
+585,1,1,1,1,1,0,0,1,0,1,30.0,m,Others,no,United States,no,7.0,18 and more,Self,adult,1
+586,1,0,1,1,0,0,1,0,0,1,47.0,f,White-European,no,United Kingdom,no,5.0,18 and more,Self,adult,0
+587,1,1,1,1,1,1,1,1,1,1,21.0,m,Black,no,Brazil,no,10.0,18 and more,Self,adult,1
+588,1,1,1,1,1,1,0,1,1,1,21.0,m,Black,no,Brazil,no,9.0,18 and more,Self,adult,1
+589,1,0,1,1,1,1,1,1,1,1,31.0,f,Unknown,no,New Zealand,no,9.0,18 and more,Unknown,adult,1
+590,1,1,1,0,0,0,0,0,0,0,21.0,f,Asian,no,New Zealand,no,3.0,18 and more,Self,adult,0
+591,0,1,1,1,0,0,0,1,1,0,29.0,f,Asian,no,United States,no,5.0,18 and more,Self,adult,0
+592,0,1,1,1,1,0,1,0,1,0,22.0,m,Middle Eastern,no,Afghanistan,no,6.0,18 and more,Self,adult,0
+593,1,1,1,1,1,1,1,1,1,1,51.0,m,White-European,no,United Kingdom,no,10.0,18 and more,Self,adult,1
+594,1,0,0,0,0,0,0,0,0,0,23.0,m,Unknown,no,Russia,no,1.0,18 and more,Unknown,adult,0
+595,1,0,0,0,1,0,0,0,1,1,30.0,m,Asian,no,India,no,4.0,18 and more,Self,adult,0
+596,1,1,0,0,0,0,0,1,0,0,22.0,m,Others,no,India,no,3.0,18 and more,Self,adult,0
+597,1,1,0,0,0,0,0,1,0,1,22.0,m,Asian,no,New Zealand,no,4.0,18 and more,Self,adult,0
+598,1,0,0,0,1,0,1,1,0,1,24.0,m,Asian,no,India,no,5.0,18 and more,Self,adult,0
+599,1,0,0,0,0,0,0,1,0,1,26.0,f,South Asian,no,India,no,3.0,18 and more,Self,adult,0
+600,1,0,1,1,0,0,0,1,1,1,33.0,f,Asian,no,India,no,6.0,18 and more,Parent,adult,0
+601,1,0,0,0,0,0,0,1,1,0,23.0,m,Asian,no,India,no,3.0,18 and more,Self,adult,0
+602,1,0,1,0,0,0,0,1,0,0,42.0,f,Asian,no,India,no,3.0,18 and more,Self,adult,0
+603,1,0,1,0,0,0,0,0,0,0,26.0,f,Asian,no,India,no,2.0,18 and more,Self,adult,0
+604,1,0,0,0,0,0,0,1,0,0,29.0,f,Asian,no,New Zealand,no,2.0,18 and more,Self,adult,0
+605,1,0,0,0,0,0,1,0,0,1,35.0,f,Asian,no,India,no,3.0,18 and more,Self,adult,0
+606,1,0,0,0,1,1,0,1,0,0,25.0,f,South Asian,no,India,no,4.0,18 and more,Self,adult,0
+607,1,0,0,0,0,0,1,1,0,0,25.0,m,Asian,no,Sri Lanka,no,3.0,18 and more,Self,adult,0
+608,0,0,0,0,0,0,0,1,0,0,28.0,f,Asian,no,India,no,1.0,18 and more,Self,adult,0
+609,1,0,0,0,0,0,0,0,0,0,33.0,m,White-European,no,Germany,no,1.0,18 and more,Self,adult,0
+610,1,0,0,1,0,0,1,1,0,0,25.0,m,Asian,no,India,no,4.0,18 and more,Self,adult,0
+611,0,0,1,0,1,1,0,1,0,1,25.0,m,Asian,no,India,no,5.0,18 and more,Self,adult,0
+612,1,0,0,0,1,0,1,1,0,0,24.0,m,Asian,no,India,no,4.0,18 and more,Self,adult,0
+613,1,1,1,1,0,0,0,0,0,1,27.0,f,South Asian,no,India,no,5.0,18 and more,Self,adult,0
+614,1,0,0,0,0,0,0,0,0,0,22.0,m,South Asian,no,India,no,1.0,18 and more,Self,adult,0
+615,1,1,0,1,0,0,0,1,0,1,21.0,f,South Asian,no,India,no,5.0,18 and more,Self,adult,0
+616,1,0,1,1,0,1,0,1,0,1,27.0,f,South Asian,no,India,no,6.0,18 and more,Self,adult,0
+617,1,0,0,0,1,0,1,0,0,0,23.0,m,South Asian,no,India,no,3.0,18 and more,Self,adult,0
+618,0,0,0,1,1,0,0,1,0,1,22.0,m,Asian,no,India,no,4.0,18 and more,Self,adult,0
+619,0,1,0,0,0,0,0,0,0,1,23.0,f,South Asian,no,India,no,2.0,18 and more,Self,adult,0
+620,1,0,0,1,0,0,0,1,0,1,30.0,m,Asian,no,India,no,4.0,18 and more,Self,adult,0
+621,0,1,0,0,1,0,1,1,0,0,33.0,m,Asian,no,India,no,4.0,18 and more,Self,adult,0
+622,1,0,1,1,1,0,1,1,1,0,24.0,f,South Asian,no,India,no,7.0,18 and more,Self,adult,1
+623,1,0,0,0,1,0,1,1,0,0,22.0,f,Asian,no,New Zealand,no,4.0,18 and more,Self,adult,0
+624,1,0,0,1,1,0,1,1,1,1,22.0,m,Asian,no,New Zealand,no,7.0,18 and more,Self,adult,1
+625,1,0,0,0,0,0,0,1,0,1,29.0,f,South Asian,no,India,no,3.0,18 and more,Self,adult,0
+626,1,0,1,0,1,0,1,1,0,1,22.0,f,Asian,no,India,no,6.0,18 and more,Self,adult,0
+627,1,0,1,0,0,0,0,1,0,0,21.0,m,Asian,no,India,no,3.0,18 and more,Self,adult,0
+628,1,0,0,0,0,0,1,1,0,0,23.0,m,Asian,no,India,no,3.0,18 and more,Self,adult,0
+629,1,0,0,0,1,0,1,1,0,1,23.0,f,Others,no,India,no,5.0,18 and more,Self,adult,0
+630,1,0,0,0,1,0,1,1,1,1,23.0,f,Asian,no,India,no,6.0,18 and more,Self,adult,0
+631,1,1,0,1,1,0,1,1,0,0,32.0,m,Asian,no,Sri Lanka,no,6.0,18 and more,Self,adult,0
+632,0,0,0,0,0,0,1,0,0,1,27.0,m,Asian,no,Sri Lanka,no,2.0,18 and more,Self,adult,0
+633,0,0,1,0,0,0,0,1,0,0,28.0,f,Asian,no,India,no,2.0,18 and more,Parent,adult,0
+634,1,1,0,0,1,0,0,1,1,1,25.0,f,Middle Eastern,no,India,no,6.0,18 and more,Self,adult,0
+635,1,0,1,0,1,0,1,1,1,1,22.0,m,Black,no,Nepal,no,7.0,18 and more,Self,adult,1
+636,0,1,1,0,0,0,1,0,0,1,36.0,m,White-European,no,United Kingdom,no,4.0,18 and more,Self,adult,0
+637,0,0,0,0,0,0,0,0,0,0,27.0,f,Unknown,no,Russia,no,0.0,18 and more,Unknown,adult,0
+638,1,1,1,1,1,1,1,1,1,1,21.0,f,White-European,no,Germany,no,10.0,18 and more,Self,adult,1
+639,1,1,0,1,1,0,0,1,0,0,18.0,m,Black,no,United States,no,5.0,18 and more,Self,adult,0
+640,1,0,0,0,1,1,1,1,1,1,49.0,m,Black,no,Mexico,no,7.0,18 and more,Parent,adult,1
+641,1,1,1,0,0,0,0,1,0,0,18.0,m,Asian,no,Indonesia,no,4.0,18 and more,Self,adult,0
+642,1,0,1,1,1,0,1,1,1,0,29.0,m,Latino,no,United States,no,7.0,18 and more,Self,adult,1
+643,0,0,0,0,1,0,0,1,0,0,31.0,f,Unknown,no,New Zealand,no,2.0,18 and more,Unknown,adult,0
+644,1,0,0,0,0,0,0,0,0,0,37.0,f,Middle Eastern,no,New Zealand,no,1.0,18 and more,Parent,adult,0
+645,1,0,1,1,1,0,0,1,0,1,17.0,m,Middle Eastern,no,New Zealand,no,6.0,18 and more,Parent,adult,0
+646,1,0,1,1,0,0,1,1,1,1,17.0,m,Unknown,yes,New Zealand,no,7.0,18 and more,Unknown,adult,1
+647,1,1,1,1,0,0,0,0,0,0,38.0,f,Middle Eastern,no,Jordan,no,4.0,18 and more,Self,adult,0
+648,1,0,1,0,0,1,0,1,0,1,18.0,m,White-European,no,Angola,no,5.0,18 and more,Parent,adult,0
+649,1,0,1,1,1,0,0,0,0,0,31.0,f,Middle Eastern,no,United Arab Emirates,no,4.0,18 and more,Self,adult,0
+650,0,1,1,1,0,0,0,0,0,0,33.0,m,Middle Eastern,no,United Arab Emirates,yes,3.0,18 and more,Self,adult,0
+651,1,1,0,0,0,0,0,0,0,0,32.0,f,Middle Eastern,no,Jordan,no,2.0,18 and more,Self,adult,0
+652,1,0,0,0,0,0,1,0,0,1,30.0,m,Unknown,no,Jordan,no,3.0,18 and more,Unknown,adult,0
+653,0,0,0,0,0,0,0,0,0,1,33.0,f,Unknown,no,United States,no,1.0,18 and more,Unknown,adult,0
+654,1,1,1,1,1,1,1,1,1,1,30.0,f,White-European,yes,Canada,no,10.0,18 and more,Self,adult,1
+655,1,1,1,1,1,0,1,1,1,1,30.0,m,Asian,no,United States,no,9.0,18 and more,Self,adult,1
+656,1,0,0,1,1,0,1,0,0,1,38.0,f,White-European,yes,United Kingdom,no,5.0,18 and more,Self,adult,0
+657,1,0,0,0,1,0,1,0,1,1,22.0,m,Asian,no,India,no,5.0,18 and more,Self,adult,0
+658,1,1,0,0,1,0,1,0,1,0,36.0,m,others,no,United States,no,5.0,18 and more,Self,adult,0
+659,0,0,1,1,0,0,1,0,0,0,43.0,m,Unknown,no,Azerbaijan,no,3.0,18 and more,Unknown,adult,0
+660,1,1,1,1,1,1,0,0,1,1,44.0,m,Unknown,no,Pakistan,no,8.0,18 and more,Unknown,adult,1
+661,1,1,1,0,1,1,0,1,1,1,20.0,f,White-European,no,France,no,8.0,18 and more,Self,adult,1
+662,1,1,1,1,1,1,0,1,1,1,40.0,f,Others,yes,Australia,no,9.0,18 and more,Self,adult,1
+663,1,0,0,1,1,1,0,0,1,0,25.0,m,White-European,no,Italy,no,5.0,18 and more,Self,adult,0
+664,1,0,0,0,0,0,1,1,0,1,28.0,m,White-European,no,Australia,no,4.0,18 and more,Self,adult,0
+665,0,0,0,0,0,0,1,1,0,1,17.0,m,White-European,no,Canada,no,3.0,18 and more,Self,adult,0
+666,1,1,1,1,1,1,1,0,1,1,34.0,m,White-European,no,United States,no,9.0,18 and more,Self,adult,1
+667,0,0,0,0,0,0,0,1,0,0,56.0,m,Unknown,no,Iraq,no,1.0,18 and more,Unknown,adult,0
+668,0,0,1,0,0,0,1,1,0,0,50.0,f,Middle Eastern,no,New Zealand,no,3.0,18 and more,Parent,adult,0
+669,1,0,0,0,0,0,1,1,0,1,38.0,m,White-European,no,United States,no,4.0,18 and more,Self,adult,0
+670,1,1,1,1,1,1,1,1,1,1,47.0,m,White-European,no,United States,no,10.0,18 and more,Self,adult,1
+671,1,1,1,1,1,0,1,1,1,1,30.0,m,Others,no,United States,no,9.0,18 and more,Self,adult,1
+672,1,1,1,1,1,0,0,1,0,1,21.0,m,Hispanic,no,United States,no,7.0,18 and more,Self,adult,1
+673,1,1,1,1,1,0,1,1,0,1,21.0,m,White-European,no,Ireland,no,8.0,18 and more,Self,adult,1
+674,1,1,1,0,1,0,1,1,1,1,31.0,m,Latino,no,Mexico,no,8.0,18 and more,Self,adult,1
+675,1,1,0,0,1,1,0,1,0,1,27.0,f,White-European,no,Czech Republic,no,6.0,18 and more,Self,adult,0
+676,1,1,1,1,0,0,0,0,1,0,24.0,f,White-European,no,United States,no,5.0,18 and more,Self,adult,0
+677,1,1,0,0,0,0,1,0,0,1,35.0,m,White-European,no,United Kingdom,no,4.0,18 and more,Parent,adult,0
+678,1,0,0,0,0,0,1,0,0,1,18.0,m,Black,no,Ethiopia,no,3.0,18 and more,Health care professional,adult,0
+679,1,1,1,1,1,0,0,1,1,1,43.0,f,Black,no,United States,no,8.0,18 and more,Self,adult,1
+680,1,1,1,1,1,1,1,1,1,1,44.0,m,White-European,yes,Afghanistan,no,10.0,18 and more,Self,adult,1
+681,1,1,1,1,1,1,1,1,1,1,40.0,m,White-European,yes,United Kingdom,no,10.0,18 and more,Parent,adult,1
+682,1,1,0,1,1,1,1,1,1,1,49.0,f,Hispanic,no,United States,no,9.0,18 and more,Self,adult,1
+683,1,1,0,0,0,0,0,1,0,0,24.0,m,Hispanic,no,United States,no,3.0,18 and more,Self,adult,0
+684,1,1,0,0,0,0,0,1,1,0,30.0,f,White-European,yes,United States,no,4.0,18 and more,Self,adult,0
+685,1,0,1,0,0,0,0,1,0,1,53.0,m,Hispanic,no,United States,no,4.0,18 and more,Relative,adult,0
+686,1,0,1,1,1,0,0,1,1,1,38.0,m,White-European,yes,Belgium,no,7.0,18 and more,Self,adult,1
+687,1,0,0,0,1,0,1,1,0,1,28.0,m,White-European,no,United States,no,5.0,18 and more,Self,adult,0
+688,1,1,1,0,1,1,1,1,1,1,28.0,m,White-European,no,United States,no,9.0,18 and more,Self,adult,1
+689,1,0,1,1,1,1,1,0,1,1,26.0,m,Black,no,Canada,no,8.0,18 and more,Self,adult,1
+690,1,0,0,0,1,1,1,1,1,1,39.0,f,White-European,no,Canada,no,7.0,18 and more,Self,adult,1
+691,0,0,0,0,1,0,0,0,0,0,31.0,f,Asian,no,India,no,1.0,18 and more,Self,adult,0
+692,1,0,0,1,0,0,1,1,0,0,24.0,m,Black,no,United States,no,4.0,18 and more,Self,adult,0
+693,1,1,1,0,1,1,1,1,0,1,28.0,m,White-European,no,United States,no,8.0,18 and more,Self,adult,1
+694,1,0,0,1,0,0,0,1,0,1,31.0,f,White-European,no,United Kingdom,no,4.0,18 and more,Self,adult,0
+695,1,1,1,1,1,0,0,1,0,1,27.0,m,White-European,no,United States,no,7.0,18 and more,Self,adult,1
+696,1,0,1,1,0,0,1,1,0,0,28.0,m,Latino,no,Brazil,yes,5.0,18 and more,Parent,adult,0
+697,1,1,1,1,1,1,0,1,1,1,31.0,m,Turkish,yes,Australia,no,9.0,18 and more,Self,adult,1
+698,1,1,1,1,1,0,0,0,0,1,46.0,f,Asian,no,Philippines,no,6.0,18 and more,Self,adult,0
+699,1,1,1,1,1,1,1,1,1,1,27.0,f,Pasifika,no,Australia,no,10.0,18 and more,Self,adult,1
+700,0,1,0,1,1,0,1,1,1,1,25.0,f,White-European,no,Russia,no,7.0,18 and more,Self,adult,1
+701,1,0,0,0,0,0,0,1,0,1,34.0,m,Hispanic,no,Mexico,no,3.0,18 and more,Parent,adult,0
+702,1,0,1,1,1,0,1,1,0,1,24.0,f,Unknown,no,Russia,no,7.0,18 and more,Unknown,adult,1
+703,1,0,0,1,1,0,1,0,1,1,35.0,m,South Asian,no,Pakistan,no,6.0,18 and more,Self,adult,0
+704,1,0,1,1,1,0,1,1,1,1,26.0,f,White-European,no,Cyprus,no,8.0,18 and more,Self,adult,1
+705,0,0,0,1,1,1,1,1,1,0,15.0,m,Hispanic,yes,Austria,no,6.0,12-16 years,Parent,adolescent,0
+706,0,0,0,0,0,0,0,0,1,1,15.0,m,Black,no,Austria,no,2.0,12-16 years,Relative,adolescent,0
+707,0,0,0,0,0,0,0,0,1,1,12.0,f,Unknown,no,AmericanSamoa,no,2.0,12-16 years,Unknown,adolescent,0
+708,0,1,1,1,1,1,0,1,1,0,14.0,f,White-European,no,United Kingdom,no,7.0,12-16 years,Self,adolescent,1
+709,1,1,1,1,1,1,1,0,0,0,16.0,f,Unknown,no,Albania,no,7.0,12-16 years,Unknown,adolescent,1
+710,1,0,0,0,0,1,0,0,1,0,13.0,f,Unknown,no,Belgium,no,3.0,12-16 years,Unknown,adolescent,0
+711,0,0,0,1,1,1,1,1,1,0,16.0,f,Unknown,no,Afghanistan,no,6.0,12-16 years,Unknown,adolescent,0
+712,1,1,0,1,1,0,1,1,0,1,15.0,f,Middle Eastern,no,Australia,no,7.0,12-16 years,Parent,adolescent,1
+713,1,1,1,1,1,1,0,0,0,0,12.0,m,Black,yes,Bahrain,no,6.0,12-16 years,Parent,adolescent,0
+714,0,1,1,0,0,1,0,0,1,0,12.0,f,South Asian,no,Azerbaijan,no,4.0,12-16 years,Parent,adolescent,0
+715,1,0,0,0,1,1,0,1,1,0,13.0,f,Middle Eastern,no,United Arab Emirates,no,5.0,12-16 years,Parent,adolescent,0
+716,1,0,0,0,1,1,0,0,1,1,13.0,f,White-European,no,United Kingdom,no,5.0,12-16 years,Self,adolescent,0
+717,1,0,0,1,1,1,0,1,1,1,12.0,f,Others,no,United Kingdom,no,7.0,12-16 years,Self,adolescent,1
+718,1,1,1,1,1,1,0,1,1,1,12.0,f,Others,no,United Kingdom,no,9.0,12-16 years,Parent,adolescent,1
+719,1,0,1,1,1,1,0,1,1,1,12.0,f,Others,no,United Kingdom,no,8.0,12-16 years,Self,adolescent,1
+720,1,1,0,1,1,1,1,1,1,1,15.0,f,White-European,yes,United Kingdom,no,9.0,12-16 years,Parent,adolescent,1
+721,1,0,0,0,1,0,0,1,0,1,12.0,f,Others,yes,United Kingdom,no,4.0,12-16 years,Parent,adolescent,0
+722,1,0,1,1,1,1,0,1,1,1,12.0,f,Others,no,United Kingdom,no,8.0,12-16 years,Parent,adolescent,1
+723,1,1,1,1,1,0,0,1,1,0,13.0,f,White-European,no,United Kingdom,no,7.0,12-16 years,Parent,adolescent,1
+724,1,1,1,0,1,1,1,0,1,1,12.0,m,White-European,no,United Kingdom,no,8.0,12-16 years,Parent,adolescent,1
+725,0,0,1,1,1,1,0,1,1,1,12.0,f,Others,no,United Kingdom,no,7.0,12-16 years,Parent,adolescent,1
+726,1,1,1,1,0,1,1,1,1,1,14.0,m,White-European,no,New Zealand,no,9.0,12-16 years,Parent,adolescent,1
+727,1,1,1,1,1,1,1,1,1,1,15.0,f,White-European,no,Australia,no,10.0,12-16 years,Parent,adolescent,1
+728,1,0,1,1,1,1,1,1,1,1,13.0,m,Middle Eastern,yes,United States,no,9.0,12-16 years,Parent,adolescent,1
+729,1,1,1,1,1,1,1,1,1,1,14.0,m,Hispanic,no,Argentina,no,10.0,12-16 years,Self,adolescent,1
+730,1,0,1,1,1,1,0,1,1,1,12.0,f,Others,no,United Kingdom,no,8.0,12-16 years,Health care professional,adolescent,1
+731,1,1,0,1,0,0,0,0,0,0,12.0,m,Middle Eastern,no,Jordan,no,3.0,12-16 years,Self,adolescent,0
+732,1,0,1,1,1,0,0,0,1,1,14.0,f,White-European,no,Canada,no,6.0,12-16 years,Self,adolescent,0
+733,1,1,0,0,0,0,1,0,1,0,13.0,m,Unknown,no,Afghanistan,no,4.0,12-16 years,Unknown,adolescent,0
+734,0,1,1,1,1,1,1,1,1,1,16.0,m,Others,no,United Kingdom,no,9.0,12-16 years,Parent,adolescent,1
+735,1,0,1,1,1,1,0,1,1,1,14.0,f,White-European,no,United Kingdom,no,8.0,12-16 years,Self,adolescent,1
+736,1,1,1,1,1,1,0,0,0,1,13.0,m,White-European,no,United Kingdom,no,7.0,12-16 years,Self,adolescent,1
+737,1,0,1,1,1,1,0,1,1,1,16.0,f,White-European,no,United States,no,8.0,12-16 years,Self,adolescent,1
+738,1,1,1,1,1,1,1,0,1,1,12.0,m,Middle Eastern,no,United States,no,9.0,12-16 years,Parent,adolescent,1
+739,1,0,1,1,1,1,1,1,1,1,14.0,f,Others,no,Canada,no,9.0,12-16 years,Self,adolescent,1
+740,1,1,1,1,0,1,1,1,1,1,16.0,f,Latino,yes,Brazil,no,9.0,12-16 years,Self,adolescent,1
+741,1,0,1,1,1,1,1,1,1,1,15.0,f,Black,no,United States,no,9.0,12-16 years,Self,adolescent,1
+742,0,0,1,1,1,1,1,1,1,1,14.0,f,Others,no,Canada,no,8.0,12-16 years,Self,adolescent,1
+743,0,0,1,1,1,1,1,1,1,1,12.0,m,White-European,no,United States,no,8.0,12-16 years,Relative,adolescent,1
+744,0,0,1,1,1,1,1,1,1,1,12.0,m,White-European,no,United States,no,8.0,12-16 years,Relative,adolescent,1
+745,1,0,1,0,1,1,1,1,1,1,15.0,m,White-European,no,Croatia,no,8.0,12-16 years,Health care professional,adolescent,1
+746,1,1,0,0,1,1,0,0,1,0,13.0,f,Others,yes,United States,no,5.0,12-16 years,Self,adolescent,0
+747,1,0,0,0,1,1,0,0,0,0,16.0,m,Hispanic,no,Argentina,no,3.0,12-16 years,Self,adolescent,0
+748,0,1,1,1,1,1,1,1,1,1,16.0,m,Hispanic,no,Argentina,no,9.0,12-16 years,Self,adolescent,1
+749,0,0,1,1,1,1,1,1,1,0,15.0,f,White-European,no,Argentina,no,7.0,12-16 years,Parent,adolescent,1
+750,1,1,1,1,1,1,1,1,1,1,16.0,m,Asian,no,India,no,10.0,12-16 years,Relative,adolescent,1
+751,0,1,1,1,1,1,1,1,1,1,16.0,m,Asian,no,India,yes,9.0,12-16 years,Relative,adolescent,1
+752,1,1,1,1,0,1,0,0,1,0,12.0,m,Asian,no,Bangladesh,no,6.0,12-16 years,Parent,adolescent,0
+753,1,1,1,0,1,1,1,1,1,1,12.0,f,Black,no,France,no,9.0,12-16 years,Parent,adolescent,1
+754,1,1,0,1,1,1,0,0,1,1,14.0,f,South Asian,no,United Kingdom,no,7.0,12-16 years,Self,adolescent,1
+755,0,0,1,1,0,1,0,1,1,1,13.0,m,Asian,no,Indonesia,no,6.0,12-16 years,Parent,adolescent,0
+756,0,1,1,1,1,1,1,1,1,1,13.0,m,Asian,no,Indonesia,no,9.0,12-16 years,Parent,adolescent,1
+757,1,0,0,1,1,1,0,1,1,1,16.0,f,Black,no,United States,no,7.0,12-16 years,Self,adolescent,1
+758,0,0,0,1,1,1,0,0,0,1,13.0,m,Middle Eastern,no,Egypt,no,4.0,12-16 years,Others,adolescent,0
+759,1,0,0,0,0,0,0,0,0,0,15.0,f,Hispanic,no,Argentina,no,1.0,12-16 years,Self,adolescent,0
+760,0,0,0,1,0,0,1,1,0,0,15.0,m,Latino,no,Argentina,no,3.0,12-16 years,Self,adolescent,0
+761,0,1,0,0,0,0,0,0,0,0,15.0,m,Black,no,Argentina,no,1.0,12-16 years,Parent,adolescent,0
+762,1,1,1,1,1,1,1,1,0,0,16.0,m,White-European,no,Argentina,no,8.0,12-16 years,Self,adolescent,1
+763,0,0,0,0,0,0,1,0,0,0,16.0,m,Latino,no,Argentina,no,1.0,12-16 years,Self,adolescent,0
+764,1,1,1,1,1,1,1,1,1,1,16.0,m,Latino,no,Argentina,no,10.0,12-16 years,Self,adolescent,1
+765,1,1,1,1,1,1,1,1,1,1,12.0,f,White-European,yes,United Kingdom,no,10.0,12-16 years,Self,adolescent,1
+766,1,1,0,0,0,0,0,1,0,0,16.0,f,White-European,no,United Kingdom,no,3.0,12-16 years,Self,adolescent,0
+767,0,0,1,1,1,1,1,1,1,1,16.0,f,White-European,no,Netherlands,no,8.0,12-16 years,Parent,adolescent,1
+768,1,0,1,1,1,1,0,0,1,1,16.0,f,White-European,no,Greenland,no,7.0,12-16 years,Self,adolescent,1
+769,1,0,1,1,1,0,1,1,1,0,14.0,f,White-European,yes,United Kingdom,no,7.0,12-16 years,Self,adolescent,1
+770,1,0,1,1,1,1,0,1,1,1,15.0,f,White-European,no,Austria,no,8.0,12-16 years,Health care professional,adolescent,1
+771,1,0,1,1,1,1,0,1,1,1,15.0,f,Asian,no,Bahamas,no,8.0,12-16 years,Self,adolescent,1
+772,0,0,1,0,1,1,1,0,0,0,16.0,m,White-European,no,Netherlands,no,4.0,12-16 years,Others,adolescent,0
+773,1,1,1,1,1,1,0,0,1,1,13.0,f,White-European,no,United States,no,8.0,12-16 years,Self,adolescent,1
+774,1,1,0,0,1,0,1,1,1,1,14.0,m,Others,no,United Kingdom,no,7.0,12-16 years,Self,adolescent,1
+775,1,1,0,0,0,1,0,1,1,1,13.0,f,White-European,yes,Belgium,yes,6.0,12-16 years,Health care professional,adolescent,0
+776,0,1,0,1,1,1,0,1,1,1,16.0,f,White-European,no,United States,no,7.0,12-16 years,Self,adolescent,1
+777,1,1,1,1,0,1,0,0,1,1,12.0,f,Black,yes,United Kingdom,no,7.0,12-16 years,Self,adolescent,1
+778,1,1,1,1,1,1,0,1,1,0,12.0,m,White-European,no,Albania,no,8.0,12-16 years,Health care professional,adolescent,1
+779,1,1,1,1,1,1,1,0,1,0,16.0,m,Asian,no,United Kingdom,no,8.0,12-16 years,Parent,adolescent,1
+780,1,1,1,0,1,0,1,0,1,0,16.0,m,Asian,yes,United Kingdom,no,6.0,12-16 years,Self,adolescent,0
+781,1,1,1,1,1,1,1,0,1,1,14.0,f,White-European,no,South Africa,no,9.0,12-16 years,Parent,adolescent,1
+782,1,1,0,0,1,0,1,0,0,0,12.0,m,Asian,no,Viet Nam,no,4.0,12-16 years,Self,adolescent,0
+783,1,1,1,1,1,1,1,1,1,0,14.0,m,White-European,no,United States,no,9.0,12-16 years,Parent,adolescent,1
+784,1,0,1,1,0,1,1,1,1,1,16.0,f,White-European,no,United Kingdom,no,8.0,12-16 years,Parent,adolescent,1
+785,0,0,1,1,0,1,0,1,1,1,13.0,f,Black,no,AmericanSamoa,no,6.0,12-16 years,Parent,adolescent,0
+786,1,0,0,0,1,1,0,1,0,0,16.0,m,South Asian,no,Comoros,no,4.0,12-16 years,Self,adolescent,0
+787,1,1,1,0,1,1,1,0,1,1,16.0,m,Asian,no,Portugal,no,8.0,12-16 years,Relative,adolescent,1
+788,1,1,0,1,1,1,0,0,1,0,15.0,m,White-European,no,Croatia,no,6.0,12-16 years,Self,adolescent,0
+789,1,0,0,1,1,1,0,0,1,1,14.0,m,White-European,no,Finland,no,6.0,12-16 years,Parent,adolescent,0
+790,0,0,1,1,1,0,1,1,1,1,16.0,m,Asian,no,India,no,7.0,12-16 years,Others,adolescent,1
+791,1,1,1,1,1,1,1,0,1,1,16.0,m,Asian,no,India,no,9.0,12-16 years,Relative,adolescent,1
+792,0,1,1,1,0,0,0,1,1,1,16.0,f,White-European,no,United Kingdom,no,6.0,12-16 years,Self,adolescent,0
+793,1,1,1,1,1,1,0,0,1,1,14.0,m,White-European,no,United Kingdom,no,8.0,12-16 years,Parent,adolescent,1
+794,1,0,1,0,0,1,0,0,1,1,13.0,m,White-European,no,Norway,no,5.0,12-16 years,Self,adolescent,0
+795,1,1,0,1,1,1,1,1,1,1,16.0,m,White-European,no,United States,no,9.0,12-16 years,Self,adolescent,1
+796,1,1,0,1,1,1,1,1,1,1,15.0,m,White-European,yes,United Kingdom,no,9.0,12-16 years,Self,adolescent,1
+797,1,0,1,0,1,0,1,0,0,0,12.0,m,Asian,no,India,yes,4.0,12-16 years,Relative,adolescent,0
+798,1,1,1,0,1,1,0,0,1,1,16.0,m,White-European,no,Ireland,no,7.0,12-16 years,Self,adolescent,1
+799,1,1,0,1,0,0,1,1,0,0,15.0,m,Asian,no,Indonesia,no,5.0,12-15 years,Self,adolescent,0
+800,1,1,1,0,1,1,1,1,1,1,15.0,f,Middle Eastern,yes,Egypt,no,9.0,12-15 years,Parent,adolescent,1
+801,1,1,1,1,1,1,1,1,0,0,16.0,f,Latino,no,Austria,no,8.0,12-15 years,Health care professional,adolescent,1
+802,1,0,0,0,1,0,0,1,0,1,15.0,f,Unknown,no,Argentina,no,4.0,12-15 years,Unknown,adolescent,0
+803,0,1,1,1,0,1,1,0,1,0,12.0,f,Middle Eastern,no,Austria,no,6.0,12-15 years,Parent,adolescent,0
+804,0,1,1,1,0,1,1,0,1,0,16.0,f,Middle Eastern,no,Anguilla,yes,6.0,12-15 years,Parent,adolescent,0
+805,1,0,1,0,0,0,0,1,0,1,16.0,m,Asian,no,India,no,4.0,12-15 years,Parent,adolescent,0
+806,1,0,0,1,1,1,1,1,1,1,12.0,f,White-European,no,United Kingdom,no,8.0,12-16 years,Self,adolescent,1
+807,1,1,0,1,1,0,0,0,1,1,13.0,f,White-European,no,United Kingdom,no,6.0,12-16 years,Self,adolescent,0
+808,1,0,1,0,0,1,1,1,1,0,12.0,m,Asian,no,India,no,6.0,12-16 years,Parent,adolescent,0
