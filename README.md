@@ -10,17 +10,15 @@ This project is a **Machine Learning-based Autism Predictor** designed to assess
 https://drive.google.com/file/d/1YQWXFSXtlV8HbRmffKJMPws130cBUeLq/view?usp=sharing
 
 ## 🌟 Features
-✅ **ASD Screening Questions** – A structured questionnaire assessing behavioral traits associated with ASD.
+✅ **Dual-Layer Questionnaire System** – Integrates the 10 clinically validated AQ-10 core screening items with 22 supplementary behavioral profile questions.
 
-✅ **Facial Analysis (Optional)** – Uses image processing techniques to detect facial features that may contribute to ASD prediction.
+✅ **Computer Vision Gaze Analysis (Optional)** – Utilizes OpenCV Haar Cascades to analyze frontal face and eye geometry, flagging partial or avoidant eye contact as a supportive behavioral signal.
 
-✅ **Machine Learning Model** – Incorporates an optimized **XGBoost Classifier** for accurate predictions.
+✅ **Mathematical Prediction Blending** – Implements a calibrated confidence algorithm that mathematically weights clinical AQ-10 priors (55%), raw ML probabilities (30%), supplementary features (10%), and vision signals (5%).
 
-✅ **Data Handling** – Uses **SMOTE** to balance class distribution and improve model performance.
+✅ **Overfitting Mitigated Architecture** – Employs structural regularization (shallow tree depth, feature/subsample constraints) and native algorithmic class weighting (`scale_pos_weight`) to handle imbalanced training data robustly.
 
-✅ **Real-time Visualization** – Displays dataset insights, including ASD class distribution and prediction results.
-
-✅ **Streamlit Web App** – A fully interactive and easy-to-use interface with live model predictions.
+✅ **Real-Time Evaluation Metrics** – Features an expandable runtime diagnostics panel displaying accuracy, sensitivity, specificity, a live confusion matrix, and ROC-AUC charting directly on the dashboard.
 
 ## 🛠️ Installation
 1. **Clone the repository:**
