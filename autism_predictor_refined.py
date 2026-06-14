@@ -15,7 +15,6 @@ from sklearn.metrics import (
     confusion_matrix, ConfusionMatrixDisplay
 )
 from xgboost import XGBClassifier
-from imblearn.over_sampling import SMOTE
 
 # Haar Cascades
 
@@ -126,21 +125,21 @@ def train_model(data_path: str = "teen_adult_asd_train.csv"):
 
 
     # SMOTE on training split only
-    smote = SMOTE(random_state=42, k_neighbors=5)
-    X_train_res, y_train_res = smote.fit_resample(X_train, y_train)
+    # smote = SMOTE(random_state=42, k_neighbors=5)
+    # X_train_res, y_train_res = smote.fit_resample(X_train, y_train)
 
-    # Class weight for any remaining imbalance
-    neg = (y_train_res == 0).sum()
-    pos = (y_train_res == 1).sum()
+    # Class weight for imbalance
+    neg = (y_train == 0).sum()
+    pos = (y_train == 1).sum()
     spw = neg / pos if pos > 0 else 1.0
 
 
     model = XGBClassifier(
-        n_estimators=300,
-        max_depth=4,
-        learning_rate=0.05,
+        n_estimators=150,
+        max_depth=2,
+        learning_rate=0.07,
         subsample=0.8,
-        colsample_bytree=0.8,
+        colsample_bytree=0.7,
         min_child_weight=4,
         gamma=0.2,
         reg_lambda=2,
@@ -152,7 +151,7 @@ def train_model(data_path: str = "teen_adult_asd_train.csv"):
     )
 
 
-    model.fit(X_train_res, y_train_res)
+    model.fit(X_train, y_train)
     print("Train shape:", X_train.shape)
     print("Test shape:", X_test.shape)
 
@@ -168,7 +167,7 @@ def train_model(data_path: str = "teen_adult_asd_train.csv"):
     joblib.dump(model, "asd_model.pkl")
 
     y_proba = model.predict_proba(X_test)[:, 1]
-    prediction_threshold = 0.45
+    prediction_threshold = 0.50
     y_pred  = (y_proba >= prediction_threshold).astype(int)
     tn, fp, fn, tp = confusion_matrix(y_test, y_pred, labels=[0, 1]).ravel()
     specificity = tn / (tn + fp) if (tn + fp) else 0.0
